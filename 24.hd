@@ -1,0 +1,19 @@
+{
+"name": "หนัง24HD",
+"author": "หนัง24HD",
+"image": "https://www.24-hd.com/wp-content/uploads/2022/08/logo24.png",
+"url": "",
+"info": "", 
+"stations": 
+[ 
+
+{ 
+"name": "Bholaa (2023) โภลา",
+"image": "https://www.24-hd.com/wp-content/uploads/2023/06/Bholaa-2023-%E0%B9%82%E0%B8%A0%E0%B8%A5%E0%B8%B2-187x269.jpg",
+"url": "https://www.24-hd.com/bholaa/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"referer": "https://www.24-hd.com/"
+},
+
+]
+}
