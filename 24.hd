@@ -13,7 +13,6 @@
 "url": "https://www.24-hd.com/bholaa/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
 "referer": "https://www.24-hd.com/",
-"import": "false"
 },
 
 { 
@@ -22,7 +21,6 @@
 "url": "https://www.24-hd.com/the-swan-princess-far-longer-than-forever/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
 "referer": "https://www.24-hd.com/",
-"import": "false"
 },
 
 { 
@@ -31,7 +29,6 @@
 "url": "https://www.24-hd.com/once-upon-a-star/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
 "referer": "https://www.24-hd.com/",
-"import": "false"
 },
 { 
 "name": "Sly (2023) ซิลเวสเตอร์ สตอลโลน",
@@ -39,7 +36,6 @@
 "url": "https://www.24-hd.com/sly/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
 "referer": "https://www.24-hd.com/",
-"import": "false"
 },
 
 { 
@@ -48,7 +44,15 @@
 "url": "https://www.24-hd.com/crypto-boy/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
 "referer": "https://www.24-hd.com/",
-"import": "false"
+},
+
+
+{ 
+"name": "My Precious (2023) รักแรกโคตรลืมยาก",
+"image": "https://www.24-hd.com/wp-content/uploads/2023/11/My-Precious-2023-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%A5%E0%B8%B7%E0%B8%A1%E0%B8%A2%E0%B8%B2%E0%B8%81-187x269.jpg",
+"url": "https://www.24-hd.com/my-precious//",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"referer": "https://www.24-hd.com/",
 },
 
 ]
