@@ -55,6 +55,22 @@
 "referer": "https://www.24-hd.com/",
 },
 
+{ 
+"name": "Lost in the Stars (2023) เมียผมหายในหมู่ดาว",
+"image": "https://www.24-hd.com/wp-content/uploads/2023/11/Lost-in-the-Stars-2023-%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B8%9C%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A2%E0%B9%83%E0%B8%99%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88%E0%B8%94%E0%B8%B2%E0%B8%A7-187x269.jpg",
+"url": "https://www.24-hd.com/lost-in-the-stars/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"referer": "https://www.24-hd.com/",
+},
+
+{ 
+"name": "My Worst Neighbor (2023)",
+"image": "https://www.24-hd.com/wp-content/uploads/2023/10/My-Worst-Neighbor-2023-1-187x269.jpg",
+"url": "https://www.24-hd.com/my-worst-neighbor/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+"referer": "https://www.24-hd.com/",
+},
+
 ]
 }
 
