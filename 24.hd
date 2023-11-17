@@ -1,78 +1,47 @@
-{
-"name": "หนัง24HD",
-"author": "หนัง24HD",
-"image": "https://www.24-hd.com/wp-content/uploads/2022/08/logo24.png",
-"url": "https://raw.githubusercontent.com/tevadaa12/M33U/main/24.hd",
-"info": "หนัง24HD", 
-"stations": 
-[ 
-
-{ 
-"name": "Bholaa (2023) โภลา",
-"image": "https://www.24-hd.com/wp-content/uploads/2023/06/Bholaa-2023-%E0%B9%82%E0%B8%A0%E0%B8%A5%E0%B8%B2-187x269.jpg",
-"url": "https://www.24-hd.com/bholaa/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
-"referer": "https://www.24-hd.com/",
-},
-
-{ 
-"name": "The Swan Princess Far Longer Than Forever (2023) เจ้าหญิงหงส์ขาว ตอน ตราบนานชั่วกัลปาวสาน",
-"image": "https://www.24-hd.com/wp-content/uploads/2023/11/The-Swan-Princess-Far-Longer-Than-Forever-2023-%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%8D%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B8%87%E0%B8%AA%E0%B9%8C%E0%B8%82%E0%B8%B2%E0%B8%A7-%E0%B8%95%E0%B8%AD%E0%B8%99-%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%A5%E0%B8%9B%E0%B8%B2%E0%B8%A7%E0%B8%AA%E0%B8%B2%E0%B8%99-187x269.jpg",
-"url": "https://www.24-hd.com/the-swan-princess-far-longer-than-forever/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
-"referer": "https://www.24-hd.com/",
-},
-
-{ 
-"name": "Once Upon A Star (2023) มนต์รักนักพากย์",
-"image": "https://www.24-hd.com/wp-content/uploads/2023/10/Once-Upon-A-Star-2023-%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C-187x269.jpg",
-"url": "https://www.24-hd.com/once-upon-a-star/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
-"referer": "https://www.24-hd.com/",
-},
-{ 
-"name": "Sly (2023) ซิลเวสเตอร์ สตอลโลน",
-"image": "https://www.24-hd.com/wp-content/uploads/2023/11/Sly-2023-%E0%B8%8B%E0%B8%B4%E0%B8%A5%E0%B9%80%E0%B8%A7%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B8%AA%E0%B8%95%E0%B8%AD%E0%B8%A5%E0%B9%82%E0%B8%A5%E0%B8%99-187x269.jpg",
-"url": "https://www.24-hd.com/sly/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
-"referer": "https://www.24-hd.com/",
-},
-
-{ 
-"name": "Crypto Boy (2023) คริปโตบอย",
-"image": "https://www.24-hd.com/wp-content/uploads/2023/10/Crypto-Boy-2023-%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%9B%E0%B9%82%E0%B8%95%E0%B8%9A%E0%B8%AD%E0%B8%A2-187x269.jpg",
-"url": "https://www.24-hd.com/crypto-boy/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
-"referer": "https://www.24-hd.com/",
-},
-
-
-{ 
-"name": "My Precious (2023) รักแรกโคตรลืมยาก",
-"image": "https://www.24-hd.com/wp-content/uploads/2023/11/My-Precious-2023-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%A5%E0%B8%B7%E0%B8%A1%E0%B8%A2%E0%B8%B2%E0%B8%81-187x269.jpg",
-"url": "https://www.24-hd.com/my-precious//",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
-"referer": "https://www.24-hd.com/",
-},
-
-{ 
-"name": "Lost in the Stars (2023) เมียผมหายในหมู่ดาว",
-"image": "https://www.24-hd.com/wp-content/uploads/2023/11/Lost-in-the-Stars-2023-%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B8%9C%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A2%E0%B9%83%E0%B8%99%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88%E0%B8%94%E0%B8%B2%E0%B8%A7-187x269.jpg",
-"url": "https://www.24-hd.com/lost-in-the-stars/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
-"referer": "https://www.24-hd.com/",
-},
-
-{ 
-"name": "My Worst Neighbor (2023)",
-"image": "https://www.24-hd.com/wp-content/uploads/2023/10/My-Worst-Neighbor-2023-1-187x269.jpg",
-"url": "https://www.24-hd.com/my-worst-neighbor/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
-"referer": "https://www.24-hd.com/",
-},
-
-]
-}
-
-
-
+#EXTM3U
+#EXTINF:-1 tvg-chno="2" tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-nbt.jpg" group-title="FREETV",NBT2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0001/HLS/V0001-avc1_5000000=3-mp4a_96000_tha=7.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-nbt.jpg" group-title="FREETV",NBT HD
+https://cdn6.goprimetime.info/feed/202306140918/chnbt3/index.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-id="ThaiPBS3.th" tvg-name="THAI PBS HD" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-thaipbs.jpg" group-title="FREETV",Thai PBS HD (AISPLAY)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0014/HLS/V0014-avc1_5000000=2-mp4a_64000_tha=6.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-id="ThaiPBS3.th" tvg-name="THAI PBS HD" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-thaipbs.jpg" group-title="FREETV",THAI PBS (3BBTV)
+https://cdn6.goprimetime.info/feed/202306140918/chthaipbs3/index.m3u8
+#EXTINF:-1 tvg-chno="4" tvg-id="ALTV.th" tvg-name="ALTV" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-altv4.jpg" group-title="FREETV",ALTV (4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/ALTV/index.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-id="TV5HD.th" tvg-name="TV5 HD" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-tv5hd.jpg" group-title="FREETV",TV5 HD (5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0007/HLS/V0007-avc1_5000000=3-mp4a_64000_tha=7.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-id="TV5HD.th" tvg-name="TV5 HD" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-tv5hd.jpg" group-title="FREETV",TV5 HD (3BBTV)
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/5/5.mpd
+#EXTINF:-1 tvg-chno="7" tvg-id="TSports7.th" tvg-name="T Sports 7" tvg-logo="https://static.thaicom.io/chbig/big_262_20211117081017.png" group-title="FREETV",TSports7
+https://ctrl.laotv.la/live/TSports7/index.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-id="TSports7.th" tvg-name="T Sports 7" tvg-logo="https://static.thaicom.io/chbig/big_262_20211117081017.png" group-title="FREETV",T Sports 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/chtsport/index.m3u8
+#EXTINF:-1 tvg-chno="10" tvg-id="TPTV.th" tvg-name="TPTV" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-tptv.jpg" group-title="FREETV",TPTV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0048/HLS/V0048-avc1_2000000=4-mp4a_64000_tha=2.m3u8
+#EXTINF:-1 tvg-id="TNN2.th" tvg-name="TNN 2" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-tnn2.jpg" group-title="FREETV",TNN 2
+https://ctrl.laotv.la/live/TNN2/index.m3u8
+#EXTINF:-1 tvg-chno="16" tvg-id="TNN16.th" tvg-name="TNN 16" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-tnn16.jpg" group-title="FREETV",TNN16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://2nud.short.gy/ais_tnn16.m3u8
+#EXTINF:-1 tvg-chno="16" tvg-id="TNN16" tvg-name="TNN 16" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-tnn16.jpg" group-title="FREETV",TNN16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/chtnn/index.m3u8
+#EXTINF:-1 tvg-chno="18" tvg-id="JKN18.th" tvg-name="JKN 18" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-new18.jpg" group-title="FREETV",JKN 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/newtv/index.m3u8
+#EXTINF:-1 tvg-chno="22" tvg-id="NationTV.th" tvg-name="Nation TV" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-nation.jpg" group-title="FREETV",Nation TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ctrl.laotv.la/live/NationTV/index.m3u8
+#EXTINF:-1 tvg-chno="22" tvg-id="Nation TV" tvg-name="Nation TV" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-nation.jpg" group-title="FREETV",NationTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/chnation/index.m3u8
+#EXTINF:-1 tvg-chno="23" tvg-id="Workpoint23.th" tvg-name="Workpoint" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-workpoint.jpg" group-title="FREETV",WorkpointTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/chworkpoint/index.m3u8
