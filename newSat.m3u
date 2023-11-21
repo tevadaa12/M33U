@@ -204,7 +204,6 @@ https://cdn6.goprimetime.info/feed/202306140918/chthairath/index.m3u8
 https://cdn6.goprimetime.info/feed/202306140918/ch3hd/index.m3u8
 
 #EXTINF:-1 tvg-chno="34" tvg-id="Amarin34HD.th" tvg-name="Amarin TV" tvg-logo="https://i.imgur.com/S6gvvf9.png" group-title="Digital TV",Amarin TV
-#EXTVLCOPT:http-referrer=https://www.amarintv.com/
 https://amarin-ks7jcc.cdn.byteark.com/fleetstream/amarin-live/index.m3u8?x_ark_access_id=fleet-868&x_ark_auth_type=ark-v2&x_ark_expires=1685572446&x_ark_path_prefix=%2Ffleetstream%2Famarin-live%2F&x_ark_signature=2FyK5MxlrHZoFa9l18SYCg
 
 #EXTINF:-1 tvg-chno="35" tvg-id="BBTVChannel7.th" tvg-name="CH7 HD" tvg-logo="https://i.imgur.com/vxnLkTz.png" group-title="Digital TV",CH7 HD
@@ -218,61 +217,37 @@ https://cdn6.goprimetime.info/feed/202306140918/chpptvhd3/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="38" tvg-id="Golf Channel Thailand" tvg-name="Golf Channel Thailand" tvg-logo="https://www.livestream88.com/wp-content/uploads/golf-channel-thailand.jpg" group-title="sport",Golf Channel Thailand
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.livescorethai.net/iptv/hd-golf.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="38" tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="sport",Red Bull TV
-#EXTVLCOPT:http-referrer=https://ufabetcompany.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-0 tvg-id="TrueXZyte.th" tvg-name="True X-Zyte" tvg-logo="http://tvsmagazine.com/images/channels/sm_034.jpg" group-title="Entertainment",TH - TR X-ZYTE
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net
 https://streaming.livescorethai.net/iptv/hd-xzyte.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-id="TrueXZyte.th" tvg-name="True X-Zyte สำลอง" tvg-logo="http://tvsmagazine.com/images/channels/sm_034.jpg" group-title="Entertainment",TH - TR X-ZYTE
-#EXTVLCOPT:http-referrer=https://freetvdd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.livescorethai.net/iptv/sd-xzyte.stream/chunks.m3u8
 
 #EXTINF:-0 tvg-id="FoodNetwork" tvg-name="" tvg-logo="http://tvsmagazine.com/images/channels/sm_FNW.jpg" group-title="Entertainment",Food Network HD
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://wacth.tv
 https://wacthstream.com/stream_live/342_Food_Network/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIzIDQ6MzA6MjEgUE0maGFzaF92YWx1ZT1WQVB4RktUTDJVS1U4azRBTGN4eW9nPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNjkwODY=
 
 #EXTINF:-1 tvg-chno="39" tvg-id="HBO TH" tvg-name="HBO TH" tvg-logo="https://i.postimg.cc/JnHkLGFv/hboth.png" group-title="Movie",HBO TH
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 https://wacthstream.com/stream_live/3BB_HBO/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIzIDI6Mjk6MTQgUE0maGFzaF92YWx1ZT0rOHI2cVJCZjRHZkNHa3BlTk16ZDFBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjc3NzA=
 
 #EXTINF:-1 tvg-chno="39" tvg-id="Cinemax TH" tvg-name="Cinemax TH" tvg-logo="https://i.postimg.cc/sDdp34sc/cinemax.png" group-title="Movie",Cinemax TH
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36
 https://wacthstream.com/stream_live/3BB_CINEMAX/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIzIDI6Mjk6MDIgUE0maGFzaF92YWx1ZT1OTmR5RXBJL2YrSFA5RXFwS0V1eHZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjg0MzY=
 
 #EXTINF:-1 tvg-chno="39" tvg-id="SUN" tvg-name="SUN" tvg-logo="https://sv1.picz.in.th/images/2022/10/11/p8ZvuI.png" group-title="Movie",SUN
-#EXTVLCOPT:http-referrer=https://www.livestream88.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/LC1/index.m3u8
 
 #EXTINF:-1 tvg-chno="39" tvg-id="SAMURAI" tvg-name="SAMURAI" tvg-logo="https://sv1.picz.in.th/images/2022/10/11/p851JI.png" group-title="Movie",SAMURAI
-#EXTVLCOPT:http-referrer=https://www.livestream88.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/LC2/index.m3u8
 
 #EXTINF:-1 tvg-chno="39" tvg-id="CTB" tvg-name="CTB" tvg-logo="https://sv1.picz.in.th/images/2022/10/11/pHGfHP.png" group-title="Movie",CTB
-#EXTVLCOPT:http-referrer=https://www.livestream88.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="39" tvg-id="TVB ไทย" tvg-name="TVB ไทย" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/89_x_saHpK8xzyeAbF1kVoBEQ7WvjLSrCO6Dq.png" group-title="Movie",TVB ไทย
-#EXTVLCOPT:http-referrer=https://www.livestream88.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist_w1167255818.m3u8
 
 #EXTINF:-1 tvg-chno="39" tvg-id="BOX FILM" tvg-name="BOX FILM" tvg-logo="https://sv1.picz.in.th/images/2022/10/11/p8q0vt.png" group-title="Movie",BOX FILM
-#EXTVLCOPT:http-referrer=https://www.livestream88.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/LC52/index.m3u8
