@@ -2,6 +2,16 @@
 
 #EXTINF:-1  tvg-id="TRUE PREMIER HD1" tvg-logo="https://ballhd.live/wp-content/themes/ballhd/logo/epl1.png",TRUE PREMIER HD1
 https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/trueepl1_480p/chunks.m3u8?nimblesessionid=57360093&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyMyA0OjUyOjU3IEFNJmhhc2hfdmFsdWU9SGpjYTJpbWc5cDRuN0lMUzZRbXU4Zz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTAmaWQ9Ymdocjk2NDkzMQ==
+#EXTINF:-1  tvg-id="TRUE PREMIER HD2" tvg-logo="https://ballhd.live/wp-content/themes/ballhd/logo/epl2.png",TRUE PREMIER HD2
+https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/trueepl2_480p/chunks.m3u8?nimblesessionid=57361650&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyMyA0OjU3OjI0IEFNJmhhc2hfdmFsdWU9aG5ON1NqZ1RleElvYWJNVG1oSFhwZz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTAmaWQ9YmdocjIzNTI5Ng==
+#EXTINF:-1  tvg-id="TRUE PREMIER HD3" tvg-logo="https://ballhd.live/wp-content/themes/ballhd/logo/epl3.png",TRUE PREMIER HD3
+https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/trueepl3_480p/chunks.m3u8?nimblesessionid=57362194&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyMyA0OjU4OjU4IEFNJmhhc2hfdmFsdWU9TFJjd1NSam9oblFUa1htSUdSWDRiQT09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTAmaWQ9YmdocjE3OTA1NQ==
+#EXTINF:-1  tvg-id="TRUE PREMIER HD4" tvg-logo="https://ballhd.live/wp-content/themes/ballhd/logo/epl4.png",TRUE PREMIER HD4
+https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/trueepl4_480p/chunks.m3u8?nimblesessionid=57362633&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyMyA1OjAwOjE3IEFNJmhhc2hfdmFsdWU9TDI2eSsvWk9MZXFxUzM3SG03emdidz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTAmaWQ9Ymdocjk3NzI3MQ==
+#EXTINF:-1  tvg-id="TRUE PREMIER HD5" tvg-logo="https://ballhd.live/wp-content/themes/ballhd/logo/epl5.png",TRUE PREMIER HD5
+https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/trueepl5_480p/chunks.m3u8?nimblesessionid=57362950&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyMyA1OjAxOjA3IEFNJmhhc2hfdmFsdWU9c2VuVkdaM2U2dWJHZERNVjRaMmU2Zz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTAmaWQ9YmdocjcwMTU3Mg==
+
+
 
 #EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",NBT HD
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0001/DASH/V0001.mpd
