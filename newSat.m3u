@@ -1,5 +1,54 @@
 #EXTM3U 
 
+#EXTINF:-1 , FWMOV
+https://www.inwiptv.com/player_demo.php?channel=89782 
+#EXTINF:-1 , FWSOV
+https://www.inwiptv.com/player_demo.php?channel=89781 
+#EXTINF:-1 , FWTOON
+https://www.inwiptv.com/player_demo.php?channel=89780 
+#EXTINF:-1 , FARM TV
+https://www.inwiptv.com/player_demo.php?channel=89429
+#EXTINF:-1 , ถิ่นใต้
+https://www.inwiptv.com/player_demo.php?channel=61235
+#EXTINF:-1 , NBT HD 2
+https://www.inwiptv.com/player_demo.php?channel=27189
+#EXTINF:-1 , Thai PBS HD 3
+https://www.inwiptv.com/player_demo.php?channel=27188
+#EXTINF:-1 , ททบ5 HD
+https://www.inwiptv.com/player_demo.php?channel=27190
+#EXTINF:-1 , TPTV 10
+https://www.inwiptv.com/player_demo.php?channel=27186
+#EXTINF:-1 , TNN 16
+https://www.inwiptv.com/player_demo.php?channel=27179
+#EXTINF:-1 , NATION
+https://www.inwiptv.com/player_demo.php?channel=27162
+#EXTINF:-1 , workpoint
+https://www.inwiptv.com/player_demo.php?channel=27159
+#EXTINF:-1 , true 4U l 24
+https://www.inwiptv.com/player_demo.php?channel=27156
+#EXTINF:-1 , G''MM' 25
+https://www.inwiptv.com/player_demo.php?channel=27153
+#EXTINF:-1 , 8 กดเลข 27
+https://www.inwiptv.com/player_demo.php?channel=27147
+#EXTINF:-1 , MONO29
+https://www.inwiptv.com/player_demo.php?channel=27144
+#EXTINF:-1 , MCOT HD l 30
+https://www.inwiptv.com/player_demo.php?channel=27141
+#EXTINF:-1 , one HD 31
+https://www.inwiptv.com/player_demo.php?channel=27140
+#EXTINF:-1 , ไทยรัฐ TV HD 32
+https://www.inwiptv.com/player_demo.php?channel=27138
+#EXTINF:-1 , 3HD
+https://www.inwiptv.com/player_demo.php?channel=27137
+#EXTINF:-1 , AMARIN HD 34
+https://www.inwiptv.com/player_demo.php?channel=27135
+#EXTINF:-1 , 7HD
+https://www.inwiptv.com/player_demo.php?channel=27132
+#EXTINF:-1 , PPTV HD 36
+https://www.inwiptv.com/player_demo.php?channel=27129
+
+
+
 #EXTINF:-1  tvg-id="TRUE PREMIER HD1" tvg-logo="https://ballhd.live/wp-content/themes/ballhd/logo/epl1.png",TRUE PREMIER HD1
 https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/trueepl1_480p/chunks.m3u8?nimblesessionid=57360093&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjEvMjAyMyA0OjUyOjU3IEFNJmhhc2hfdmFsdWU9SGpjYTJpbWc5cDRuN0lMUzZRbXU4Zz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTAmaWQ9Ymdocjk2NDkzMQ==
 #EXTINF:-1  tvg-id="TRUE PREMIER HD2" tvg-logo="https://ballhd.live/wp-content/themes/ballhd/logo/epl2.png",TRUE PREMIER HD2
