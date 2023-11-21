@@ -164,38 +164,66 @@ https://cdn6.goprimetime.info/feed/202306140918/ch7hd/index.m3u8
 #EXTINF:-1 tvg-chno="36" tvg-id="PPTVHD36.th" tvg-name="PPTV HD" tvg-logo="https://i.imgur.com/i4t7Q0C.png" group-title="Digital TV",PPTV HD
 https://cdn6.goprimetime.info/feed/202306140918/chpptvhd3/index.m3u8
 
+
+
+
+
+#EXTINF:-1 tvg-chno="38" tvg-id="Golf Channel Thailand" tvg-name="Golf Channel Thailand" tvg-logo="https://www.livestream88.com/wp-content/uploads/golf-channel-thailand.jpg" group-title="sport",Golf Channel Thailand
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-golf.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="38" tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="sport",Red Bull TV
+#EXTVLCOPT:http-referrer=https://ufabetcompany.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-0 tvg-id="TrueXZyte.th" tvg-name="True X-Zyte" tvg-logo="http://tvsmagazine.com/images/channels/sm_034.jpg" group-title="Entertainment",TH - TR X-ZYTE
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net
+https://streaming.livescorethai.net/iptv/hd-xzyte.stream/chunks.m3u8
+
+#EXTINF:-0 tvg-id="TrueXZyte.th" tvg-name="True X-Zyte สำลอง" tvg-logo="http://tvsmagazine.com/images/channels/sm_034.jpg" group-title="Entertainment",TH - TR X-ZYTE
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/sd-xzyte.stream/chunks.m3u8
+
+#EXTINF:-0 tvg-id="FoodNetwork" tvg-name="" tvg-logo="http://tvsmagazine.com/images/channels/sm_FNW.jpg" group-title="Entertainment",Food Network HD
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/342_Food_Network/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIzIDQ6MzA6MjEgUE0maGFzaF92YWx1ZT1WQVB4RktUTDJVS1U4azRBTGN4eW9nPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNjkwODY=
+
+#EXTINF:-1 tvg-chno="39" tvg-id="HBO TH" tvg-name="HBO TH" tvg-logo="https://i.postimg.cc/JnHkLGFv/hboth.png" group-title="Movie",HBO TH
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://wacthstream.com/stream_live/3BB_HBO/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIzIDI6Mjk6MTQgUE0maGFzaF92YWx1ZT0rOHI2cVJCZjRHZkNHa3BlTk16ZDFBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjc3NzA=
+
+#EXTINF:-1 tvg-chno="39" tvg-id="Cinemax TH" tvg-name="Cinemax TH" tvg-logo="https://i.postimg.cc/sDdp34sc/cinemax.png" group-title="Movie",Cinemax TH
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36
+https://wacthstream.com/stream_live/3BB_CINEMAX/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIzIDI6Mjk6MDIgUE0maGFzaF92YWx1ZT1OTmR5RXBJL2YrSFA5RXFwS0V1eHZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjg0MzY=
+
 #EXTINF:-1 tvg-chno="39" tvg-id="SUN" tvg-name="SUN" tvg-logo="https://sv1.picz.in.th/images/2022/10/11/p8ZvuI.png" group-title="Movie",SUN
+#EXTVLCOPT:http-referrer=https://www.livestream88.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/LC1/index.m3u8
 
 #EXTINF:-1 tvg-chno="39" tvg-id="SAMURAI" tvg-name="SAMURAI" tvg-logo="https://sv1.picz.in.th/images/2022/10/11/p851JI.png" group-title="Movie",SAMURAI
+#EXTVLCOPT:http-referrer=https://www.livestream88.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/LC2/index.m3u8
 
 #EXTINF:-1 tvg-chno="39" tvg-id="CTB" tvg-name="CTB" tvg-logo="https://sv1.picz.in.th/images/2022/10/11/pHGfHP.png" group-title="Movie",CTB
+#EXTVLCOPT:http-referrer=https://www.livestream88.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="39" tvg-id="TVB ไทย" tvg-name="TVB ไทย" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/89_x_saHpK8xzyeAbF1kVoBEQ7WvjLSrCO6Dq.png" group-title="Movie",TVB ไทย
+#EXTVLCOPT:http-referrer=https://www.livestream88.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist_w1167255818.m3u8
 
 #EXTINF:-1 tvg-chno="39" tvg-id="BOX FILM" tvg-name="BOX FILM" tvg-logo="https://sv1.picz.in.th/images/2022/10/11/p8q0vt.png" group-title="Movie",BOX FILM
+#EXTVLCOPT:http-referrer=https://www.livestream88.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/LC52/index.m3u8
-
-#EXTINF:-1 tvg-chno="39" tvg-id="CHANNEL 8" tvg-name="CHANNEL 8" tvg-logo="http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png" group-title="Movie",CHANNEL 8
-https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8
-
-#EXTINF:-1 tvg-chno="39" tvg-id="SANOOK" tvg-name="SANOOK" tvg-logo="https://sv1.picz.in.th/images/2022/10/11/p856A9.png" group-title="Movie",SANOOK
-https://cdn6.goprimetime.info/feed/202306140918/LC53/index.m3u8
-
-#EXTINF:-1 tvg-chno="39" tvg-id="7FLIX" tvg-name="7FLIX" tvg-logo="https://sv1.picz.in.th/images/2022/10/11/pHJhkD.png" group-title="Movie",7FLIX
-https://cdn6.goprimetime.info/feed/202306140918/LC5/index.m3u8
-
-#EXTINF:-1 tvg-chno="39" tvg-id="MOVIES WORLD 1" tvg-name="MOVIES WORLD 1" tvg-logo="https://sv1.picz.in.th/images/2022/10/07/p2UNRb.png" group-title="Movie",MOVIES WORLD 1
-https://cdn6.goprimetime.info/feed/202306140918/LC11/index.m3u8
-
-#EXTINF:-1 tvg-chno="39" tvg-id="จอมยุทธ์" tvg-name="จอมยุทธ์" tvg-logo="https://sv1.picz.in.th/images/2022/10/11/pHJhkD.png" group-title="Movie",จอมยุทธ์
-http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="39" tvg-id="cinema china จีน" tvg-name="cinema china จีน" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="Movie",cinema china จีน
-https://cdn6.goprimetime.info/feed/202306140918/LC28/index.m3u8
-
-#EXTINF:-1 tvg-chno="39" tvg-id="มังกร" tvg-name="มังกร" tvg-logo="https://www.i-pic.info/i/w2UI361030.jpg" group-title="Movie",มังกร
-http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
