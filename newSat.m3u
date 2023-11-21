@@ -1,13 +1,78 @@
 #EXTM3U 
-#EXTINF:-1  ,NBT HD
+
+
+
+#EXTINF:-1  tvg-id="NBT2.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",NBT HD
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0001/DASH/V0001.mpd
-#EXTINF:-1  ,Thai PBS HD
+#EXTINF:-1  tvg-id="ThaiPBS3.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",Thai PBS HD
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0014/DASH/V0014.mpd
-#EXTINF:-1  ,ALTV
+#EXTINF:-1  tvg-id="ALTV.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG", ALTV
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0085/DASH/V0085.mpd
-#EXTINF:-1  ,TV5 HD
+#EXTINF:-1  tvg-id="TV5HD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//0007.png",TV5 HD
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0007/DASH/V0007.mpd
-#EXTINF:-1  , TSports7
+#EXTINF:-1  tvg-id="TSports7.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png", TSports7
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0129/DASH/V0129.mpd
-#EXTINF:-1  , TPTV
+#EXTINF:-1  tvg-id="TPTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png",TPTV
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0048/DASH/V0048.mpd
+#EXTINF:-1  tvg-id="TNN16.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",TNN 16
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0053/DASH/V0053.mpd
+#EXTINF:-1  tvg-id="JKN18.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png",JKN 18
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0010/DASH/V0010.mpd
+#EXTINF:-1  tvg-id="NationTV.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png",Nation TV
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0021/DASH/V0021.mpd
+#EXTINF:-1  tvg-id="Workpoint23.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png",Workpoint 23
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0015/DASH/V0015.mpd
+#EXTINF:-1  tvg-id="True4U.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",True 4U
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0054/DASH/B0054.mpd
+#EXTINF:-1  tvg-id="GMM25.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",GMM 25
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0019/DASH/B0019.mpd
+#EXTINF:-1  tvg-id="ThaiChannel8.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png",CH 8
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0006/DASH/B0006.mpd
+#EXTINF:-1  tvg-id="Mono29.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",Mono29
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0016/DASH/V0016.mpd
+#EXTINF:-1  tvg-id="ThairathTV.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",Thiarath TV
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0013/DASH/V0013.mpd
+#EXTINF:-1  tvg-id="MCOTHD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png",MCOT HD
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0008/DASH/V0008.mpd
+#EXTINF:-1  tvg-id="OneHD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",ONE HD
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0012/DASH/B0012.mpd/V0060/DASH/V0060.mpd
+#EXTINF:-1  tvg-id="ThiarathTV.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",Thairath TV
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0013/DASH/V0013.mpd
+#EXTINF:-1  tvg-id="CH3.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG",CH3 HD
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0003/DASH/B0003.mpd
+#EXTINF:-1  tvg-id="Amarin34HD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png",AMARIN TV HD
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0017/DASH/V0017.mpd
+#EXTINF:-1  tvg-id="BBTVChannel7.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",CH7 HD
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0018/DASH/V0018.mpd
+#EXTINF:-1  tvg-id="PPTVHD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",PPTV HD
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0022/DASH/V0022.mpd
+#EXTINF:-1  tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0059.png",ไวท์ชาแนล
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0059/DASH/V0059.mpd
+#EXTINF:-1  tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0064.png",ทีวีดี โมโม่
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0064/DASH/V0064.mpd
+#EXTINF:-1  tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TVD1.png",TVD1
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0067/DASH/V0067.mpd
+#EXTINF:-1  tvg-id="TrueShopping.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0111.png",True Shopping
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0111/DASH/V0111.mpd
+#EXTINF:-1  tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0094.png",MV Lao
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0094/DASH/V0094.mpd
+#EXTINF:-1  tvg-id="TrueSelect.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/V0112.png",TrueSelect
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0111/DASH/V0111.mpd
+#EXTINF:-1  tvg-id="HighShopping.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0052.png",O SHOPPING
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0052/DASH/V0052.mpd
+#EXTINF:-1  tvg-id="EuroNews.us" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/0119.png",Euronews 
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0119/DASH/V0119.mpd
+#EXTINF:-1  tvg-id="DWEnglish.de" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/0121.png",DW
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0121/DASH/V0121.mpd
+#EXTINF:-1  tvg-id="police.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0047.png",Police TV
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0047/DASH/V0047.mpd
+#EXTINF:-1  tvg-id="news1.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png",News 1
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0036/DASH/V0036.mpd
+#EXTINF:-1  tvg-id="France24English.fr" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/0123_1.png",France 24
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0123/DASH/V0123.mpd
+#EXTINF:-1  tvg-id="TopNews.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TOPNEWS.PNG",Top news
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0033/DASH/V0033.mpd
+#EXTINF:-1  tvg-id="HighShopping.th" tvg-logo="https://i.imgur.com/Ub6kcsn.png",High Shopping
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0101/DASH/V0101.mpd
+#EXTINF:-1  tvg-id="hbo.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/new2022/logohbo.png", HBO TH
+http://playtv.my.id/play/HBOTH.m3u8
