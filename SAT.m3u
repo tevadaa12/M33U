@@ -4,6 +4,10 @@
 https://edge1.laotv.la/live/TSport1/sc-gaFECQ/v1/index.m3u8
 #EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 [LAO TV] Backup
 https://edge1.laotv.la/live/TSport1/index.m3u8
+#EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 Backup
+https://219.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 Backup
+https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8
 #EXTINF:-1 group-title="TruePremier" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl1.png" ,PREMIER 1
 https://2nud.short.gy/tpf1.m3u8
 #EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf2.jpg" ,PREMIER 2 [LAO TV]
