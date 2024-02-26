@@ -1,4 +1,15 @@
 #EXTM3U
+#EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 [LAO TV]
+https://edge1.laotv.la/live/TSport1/sc-gaFECQ/v1/index.m3u8
+https://wacthstream.com/stream_live/600_eng1./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDI0IDM6MDU6MDggUE0maGFzaF92YWx1ZT11cU9NenRWb1F3VDMwZmVrRkx5UkJnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTUyNDU=|Referer=https://wacth.tv
+https://sv2.wacthstream.com/wacth_tv/600_eng1.2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDI0IDY6MTc6MjMgUE0maGFzaF92YWx1ZT1LVGZqY2NDVjhCeWd4bWRLYnErVUJRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMzkyNTU=
+https://edge1.laotv.la/live/TSport1/index.m3u8
+https://219.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8
+https://2nud.short.gy/tpf1.m3u8
+
+
+
 #EXTINF:-1 tvg-id="TRUE PREMIER HD1" tvg-name="" tvg-shift="" radio="" tvg-logo="https://ballhd.live/wp-content/themes/ballhd/logo/epl1.png" group-title="",TRUE PREMIER HD1
 https://r3-sn-5fo-c37ed9.googleuservideo.com/heng99_bet1/trueepl1_480p/chunks.m3u8?nimblesessionid=13592915&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyMyA5OjA4OjMwIEFNJmhhc2hfdmFsdWU9NHhwd1YyZzB4Y1hNcDVPQ0NNQ0tNZz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTAmaWQ9Ymdocjk1NDczMg==
 #EXTINF:-1 tvg-id="TRUE PREMIER HD2" tvg-name="" tvg-shift="" radio="" tvg-logo="https://ballhd.live/wp-content/themes/ballhd/logo/epl2.png" group-title="",TRUE PREMIER HD2
