@@ -4,6 +4,11 @@ https://cfvod.kaltura.com/hlsm/p/513551/sp/51355100/serveFlavor/entryId/0_tcatcg
 #EXTINF: tvg-logo="http://www.freeintertv.com/modules/Main/image/brit_euro_sport.jpg" ,British Eurosport (UK)
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 
+
+#EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 [dookeela]
+https://dkl-o53d.cdn.akamaiz.com/dookeela/epl1_sd/chunks.m3u8|Referer=https://dookeela.live/
+
+
 #EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 [dooballfree24hr]
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8|Referer=https://www.dooballfree24hr.com/
 #EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 [livedoomovies.com]
