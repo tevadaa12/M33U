@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 [ดูกีฬา]
-https://dkl-o53d.cdn.akamaiz.com/dookeela/epl1_sd/chunks.m3u8|referer=https://dookeela.live/
+https://dkl-o53d.cdn.akamaiz.com/dookeela/epl1_sd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yOC8yMDI0IDQ6MjA6MjIgQU0maGFzaF92YWx1ZT1DckVrdDNRS1pQcjhmYnE2Yi80Njd3PT0mdmFsaWRtaW51dGVzPTIw|referer=https://dookeela.live/
 #EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 [LAO TV]
 https://edge1.laotv.la/live/TSport1/sc-gaFECQ/v1/index.m3u8
 #EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1
