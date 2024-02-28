@@ -1,43 +1,37 @@
 #EXTM3U
 
-
-
+#EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 [youdooball]
+https://219.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.youdooball.com/
 #EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 [dooball2you]
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/th-sport/tpf1/chunks.m3u8|Referer=https://dooball2you.com/
-
-
 #EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 [dooballfree24hr]
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8|Referer=https://www.dooballfree24hr.com/
-#EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 [livedoomovies.com]
-https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.madoohd.com/
+#EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 [Andaman88]
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/andaman888th/tpf1/playlist.m3u8|referer=https://www.andaman888th.com/
 #EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 [LAO TV]
 https://edge1.laotv.la/live/TSport1/sc-gaFECQ/v1/index.m3u8
-#EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1
-https://wacthstream.com/stream_live/600_eng1./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDI0IDM6MDU6MDggUE0maGFzaF92YWx1ZT11cU9NenRWb1F3VDMwZmVrRkx5UkJnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTUyNDU=|Referer=https://wacth.tv
-#EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 [TEST]
-https://sv2.wacthstream.com/wacth_tv/600_eng1.2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDI0IDY6MTc6MjMgUE0maGFzaF92YWx1ZT1LVGZqY2NDVjhCeWd4bWRLYnErVUJRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMzkyNTU=
-#EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 [TEST]
-https://wacthstream.com/stream_live/600_eng1.2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDI0IDY6MTc6MjMgUE0maGFzaF92YWx1ZT1LVGZqY2NDVjhCeWd4bWRLYnErVUJRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMzkyNTU=?|Referer=https://wacth.tv
 #EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 [LAO TV] Backup
 https://edge1.laotv.la/live/TSport1/index.m3u8
-#EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 Test REF
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-#EXTVLCOPT:http-referrer=http://livedoomovies.com/
-https://219.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf2.jpg" ,PREMIER 2 [LAO TV]
+https://edge1.laotv.la/live/TSport2/sc-gaFECQ/v1/index.m3u8
+#EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 2 [LAO TV] Backup
+https://edge1.laotv.la/live/TSport2/index.m3u8
+#EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 [wacth.tv]
+https://wacthstream.com/stream_live/600_eng1./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDI0IDM6MDU6MDggUE0maGFzaF92YWx1ZT11cU9NenRWb1F3VDMwZmVrRkx5UkJnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTUyNDU=|Referer=https://wacth.tv
+#EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 [wacth.tv]
+https://sv2.wacthstream.com/wacth_tv/600_eng1.2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDI0IDY6MTc6MjMgUE0maGFzaF92YWx1ZT1LVGZqY2NDVjhCeWd4bWRLYnErVUJRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMzkyNTU=
+#EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 [wacth.tv]
+https://wacthstream.com/stream_live/600_eng1.2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDI0IDY6MTc6MjMgUE0maGFzaF92YWx1ZT1LVGZqY2NDVjhCeWd4bWRLYnErVUJRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMzkyNTU=?|Referer=https://wacth.tv
 
 
 #EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 Test REF
 https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8|referer=http://livescorethai.net/
 
 
-#EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 REF Andaman
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/andaman888th/tpf1/playlist.m3u8|referer=https://www.andaman888th.com/
+
+
 #EXTINF:-1 group-title="TruePremier" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl1.png" ,PREMIER 1
 https://2nud.short.gy/tpf1.m3u8
-#EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf2.jpg" ,PREMIER 2 [LAO TV]
-https://edge1.laotv.la/live/TSport2/sc-gaFECQ/v1/index.m3u8
-#EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 2 [LAO TV] Backup
-https://edge1.laotv.la/live/TSport2/index.m3u8
 #EXTINF:-1 group-title="TruePremier" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl2.png" ,PREMIER 2
 https://2nud.short.gy/tpf2.m3u8
 #EXTINF:-1 group-title="TruePremier" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl3.png" ,PREMIER 3
@@ -46,8 +40,7 @@ https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/trueepl3_480
 https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/trueepl4_480p/playlist.m3u8 
 #EXTINF:-1 group-title="TruePremier" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl5.png" ,PREMIER 5
 https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/trueepl5_480p/playlist.m3u8
-#EXTINF:-1 group-title="TruePremier" tvg-logo="https://pbs.twimg.com/profile_images/1371748925590372355/m3GSnYq7_400x400.png" ,Nowsport fhd 1080 p
-http://2hubs.ddns.net:25461/live/crAig1s/myG32Vd21@/69854.m3u8
+
 
 #EXTINF:-1 group-title="TruePremier" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/sport/bein-sport/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.png/1688986125137/logo-bein-sports.png" ,Bein SP1 [livescorethai]
 https://streaming.livescorethai.net/iptv/epl-bein1.stream/chunks.m3u8|Referer=https://livescorethai.net/
