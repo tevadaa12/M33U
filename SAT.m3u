@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 [Bein1]
-https://cdn3.googlecdnforstreaming.live:446/24xball/bein1/chunks.m3u8|Referer=https://24xball.co/
+
 #EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 [dooballfree24hr]
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8|Referer=https://www.dooballfree24hr.com/
 #EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 [livedoomovies.com]
@@ -19,8 +18,12 @@ https://edge1.laotv.la/live/TSport1/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://livedoomovies.com/
 https://219.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+
+
 #EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 Test REF
 https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8|referer=http://livescorethai.net/
+
+
 #EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 REF Andaman
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/andaman888th/tpf1/playlist.m3u8|referer=https://www.andaman888th.com/
 #EXTINF:-1 group-title="TruePremier" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl1.png" ,PREMIER 1
@@ -39,6 +42,11 @@ https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/trueepl4_480
 https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/trueepl5_480p/playlist.m3u8
 #EXTINF:-1 group-title="TruePremier" tvg-logo="https://pbs.twimg.com/profile_images/1371748925590372355/m3GSnYq7_400x400.png" ,Nowsport fhd 1080 p
 http://2hubs.ddns.net:25461/live/crAig1s/myG32Vd21@/69854.m3u8
+
+#EXTINF:-1 group-title="TruePremier" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/sport/bein-sport/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.png/1688986125137/logo-bein-sports.png" ,Bein SP1 [livescorethai]
+https://streaming.livescorethai.net/iptv/epl-bein1.stream/chunks.m3u8|Referer=https://livescorethai.net/
+#EXTINF:-1 group-title="TruePremier" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/sport/bein-sport/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.png/1688986125137/logo-bein-sports.png" ,Bein SP1 [24xball]
+https://cdn3.googlecdnforstreaming.live:446/24xball/bein1/chunks.m3u8|Referer=https://24xball.co/
 #EXTINF:-1 group-title="TruePremier" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/sport/bein-sport/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.png/1688986125137/logo-bein-sports.png" ,Bein SP1
 https://edge2.laotv.la/live/Bsport1/sc-gaFECQ/v0/index.m3u8
 #EXTINF:-1 group-title="TruePremier" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/sport/bein-sport/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.png/1688986125137/logo-bein-sports.png" ,Bein SP2
@@ -220,7 +228,7 @@ http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="7Flix.th" tvg-name="7Flix" tvg-logo="https://i.imgur.com/XTC7PUr.png" ,7Flix
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC5/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://i.imgur.com/m3jRPof.png" ,Love Nature
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?checkedby:iptvcat.com
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/12iD3XhCQfYF5sf6FaMrzrGFxzrKJ4u85L/LoveNature4K2-prod/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Entertainment" tvg-id="Rock Extreme" tvg-name="Rock Extreme" tvg-logo="https://i.imgur.com/dgsgnAF.png" ,Rock Extreme
 http://210.210.155.37/dr9445/h/h15/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Entertainment" tvg-id="MOVIES WORLD 1.th" tvg-name="MOVIES WORLD 1" tvg-logo="https://i.imgur.com/OsD28mZ.jpg" ,MOVIES WORLD 1
