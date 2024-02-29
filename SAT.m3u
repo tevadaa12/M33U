@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 [dooball1111]
+https://dkl-o53d.cdn.akamaiz.com/doball29_x5/epl1_sd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yOS8yMDI0IDg6MjY6NTYgQU0maGFzaF92YWx1ZT1IZEp6WE5yRzQyeUhxZ0JhdGJYTjhRPT0mdmFsaWRtaW51dGVzPTIw|Referer=https://dooball1111.com/
 #EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 [beinsport]
 https://dkl-o53d.cdn.akamaiz.com/beinsportbiz_x1/epl1_sd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yOS8yMDI0IDg6MTY6MTMgQU0maGFzaF92YWx1ZT1qNXFQbWpuejlqclJLZitCdWV5dEJBPT0mdmFsaWRtaW51dGVzPTIw|Referer=https://beinsport.biz/
 #EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 [fin99live]
