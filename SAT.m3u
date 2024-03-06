@@ -1,12 +1,6 @@
 #EXTM3U
 
 
-#EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 [playerembed-lb.blackboxsys3]
-https://edge-la.onlineprostream.com:9091/v5/tvzfhsR819JN9ixnZ1Zofw/1709716193/eabce215035144a7172be6afc55a9a48/74VMLz4kkhD1WkqAE955mA/1709726873/live/lx-origin/dooball66-epl1a_720/chunks.m3u8|Referer=https://playerembed-lb.blackboxsys.net/
-#EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 [playerembed-lb.blackboxsys2]
-https://edge-s6.onlineprostream.com:8831/v5/PRC2CljuAzP7g6nbewNh3w/1709716111/bc79da7218c3c659db0aaf7465151963/vB1SM6dIqUdWSQw4pqavng/1709726791/live/vx-origin/dooball66-epl1x_720/chunks.m3u8|Referer=https://playerembed-lb.blackboxsys.net/
-#EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 [playerembed-lb.blackboxsys]
-https://edge-la.onlineprostream.com:8804/v5/oVZm0oRQTxsC5bPopCIvCw/1709715955/eabce215035144a7172be6afc55a9a48/ebYM4shqJ4Kn0cuFbREQyQ/1709726635/live/vx-origin/dooball66-epl1_720/chunks.m3u8|Referer=https://playerembed-lb.blackboxsys.net/
 #EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 [fin99live]
 https://dolive.thaim3u.com/O4bE93ADpxWBkny6ecQgooc7cBhiPmw9/siamsport-1/playlist.m3u8|Referer=https://fin99live.org/
 #EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 [youdooball]
