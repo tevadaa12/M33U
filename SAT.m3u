@@ -2,16 +2,25 @@
 #EXTINF: group-title="MU TV" tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" ,MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 
+
+#EXTINF: group-title="TruePremier" tvg-logo="https://www.nowtv.now.com/media/s-logo/620_e.png" ,Now Premier League 1
+http://2hubs.ddns.net:25461/live/crAig1s/myG32Vd21@/69854.m3u8
 #EXTINF: group-title="TruePremier" tvg-logo="https://www.nowtv.now.com/media/s-logo/620_e.png" ,Now Premier League 1
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:B4:F2:60&stream=1110622&extension=ts
 
 
 #EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 [doomovie-hd]
-https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
+https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 [fin99live]
-https://dolive.thaim3u.com/O4bE93ADpxWBkny6ecQgooc7cBhiPmw9/siamsport-1/playlist.m3u8|Referer=https://fin99live.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://fin99live.org/
+https://dolive.thaim3u.com/O4bE93ADpxWBkny6ecQgooc7cBhiPmw9/siamsport-1/playlist.m3u8
 #EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 [youdooball]
-https://219.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.youdooball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://219.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 [dooball2you]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
@@ -41,21 +50,21 @@ https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8|referer=http:/
 
 
 
-
-#EXTINF:-1 group-title="TruePremier" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl1.png" ,PREMIER 1
-https://2nud.short.gy/tpf1.m3u8
-#EXTINF:-1 group-title="TruePremier" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl2.png" ,PREMIER 2
-https://2nud.short.gy/tpf2.m3u8
-#EXTINF:-1 group-title="TruePremier" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl3.png" ,PREMIER 3
-https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/trueepl3_480p/playlist.m3u8 
-#EXTINF:-1 group-title="TruePremier" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl4.png" ,PREMIER 4
-https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/trueepl4_480p/playlist.m3u8 
-#EXTINF:-1 group-title="TruePremier" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl5.png" ,PREMIER 5
-https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/trueepl5_480p/playlist.m3u8
-
+#EXTINF: group-title="TruePremier" tvg-logo="https://dookeela.live/uploads/1664499665.png", EPL 1
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/th-sport/tpf1/chunks.m3u8|Referer=https://www.dooballfree24hr.com/
+#EXTINF: group-title="TruePremier" tvg-logo="https://dookeela.live/uploads/1664499673.png", EPL 2
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf2/playlist.m3u8|Referer=https://www.dooballfree24hr.com/
+#EXTINF: group-title="TruePremier" tvg-logo="https://dookeela.live/uploads/1664499681.png", EPL 3
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf3/playlist.m3u8|Referer=https://www.dooballfree24hr.com/
+#EXTINF: group-title="TruePremier" tvg-logo="https://dookeela.live/uploads/1664499692.png", EPL 4
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf4/playlist.m3u8|Referer=https://www.dooballfree24hr.com/
+#EXTINF: group-title="TruePremier" tvg-logo="https://dookeela.live/uploads/1664499700.png", EPL  5
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf5/playlist.m3u8|Referer=https://www.dooballfree24hr.com/
 
 #EXTINF:-1 group-title="TruePremier" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/sport/bein-sport/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.png/1688986125137/logo-bein-sports.png" ,Bein SP1 [livescorethai]
-https://streaming.livescorethai.net/iptv/epl-bein1.stream/chunks.m3u8|Referer=https://livescorethai.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/epl-bein1.stream/chunks.m3u8
 #EXTINF:-1 group-title="TruePremier" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/sport/bein-sport/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.png/1688986125137/logo-bein-sports.png" ,Bein SP1 [24xball]
 https://cdn3.googlecdnforstreaming.live:446/24xball/bein1/chunks.m3u8|Referer=https://24xball.co/
 #EXTINF:-1 group-title="TruePremier" tvg-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/sport/bein-sport/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.png/1688986125137/logo-bein-sports.png" ,Bein SP1
