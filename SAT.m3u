@@ -5,17 +5,30 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-w
 http://2hubs.ddns.net:25461/live/crAig1s/myG32Vd21@/69854.m3u8|Referer=http://2hubs.ddns.net
 #EXTINF: group-title="TruePremier" tvg-logo="https://www.nowtv.now.com/media/s-logo/620_e.png" ,Now Premier League 1
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:B4:F2:60&stream=1110622&extension=ts|Referer=http://line.greatstar.me
+
+
+
+
+
+#EXTINF: group-title="TruePremier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" ,HUB PREMIER 1 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://jmrk.xyz:3050/live/tbogans@comcast.net/LK3Xps4jOg/501577.m3u8
+
+#EXTINF: group-title="TruePremier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/x5ja5w1659624783.png" ,Super Sport EPL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://supersonictv.live:8080/live/Eddie8523/Whitehead83/86863.m3u8
+
+
+
+
 #EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 [doomovie-hd]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:-1 ,
 https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 [youdooball]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:-1 ,
 https://219.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 [dooball2you]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:-1 ,
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8
 #EXTINF: group-title="TruePremier" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,PREMIER 1 [dooballfree24hr]
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8|Referer=https://www.dooballfree24hr.com/
