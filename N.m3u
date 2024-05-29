@@ -2,7 +2,7 @@
 
 #EXTINF: group-title="TruePremier" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" ,HUB PREMIER 1 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=http://jmrk.xyz
+#EXTVLCOPT:http-referrer=https://comcast.net
 http://jmrk.xyz:3050/live/tbogans@comcast.net/LK3Xps4jOg/501577.m3u8
 
 
