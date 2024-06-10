@@ -1,7 +1,9 @@
 #EXTM3U
 
-
-
+#EXTINF:-1 group-title="TruePremier" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzQGu6oVfbNWcps08m8E4TsWl4Q8NbEDPH8w&s"  ,TyC Sports 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://aisplay24hd.com/
+https://cdn1.aws-live-streaming.com/ais/tycsports/playlist.m3u8
 
 #EXTINF:-1 group-title="TruePremier" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nQ6BSaej0jJWHYFCJ-4dJYS_47qksmdZGuOk3bLW4Zl3En=s900-c-k-c0x00ffffff-no-rj"  ,ESPN 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
