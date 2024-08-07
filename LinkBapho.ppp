@@ -3,12 +3,6 @@
 #EXTINF: group-title="MU TV" tvg-logo="https://play-lh.googleusercontent.com/eIvDwKcoggMj1SDcOUbWAHc0FgocQdIbxtxUwRXB-Wv1rZ5PnwdgnIU8GL24qbyrPFGE" ,MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 
-#EXTINF: group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png/revision/latest?cb=20200924173711" ,Astro 3
-https://play.gachor99.my.id:443/play/sO0pi4NyHs4kjc6reYfw9fUqIOwQuuc93AxxG4O80I8/m3u8
-
-#EXTINF: group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png/revision/latest?cb=20200924173711" ,Astro 3
-https://play.gachor99.my.id:443/play/sO0pi4NyHs4kjc6reYfw9RyifyobGiV7wZXRdqbolmo/m3u8
-
 #EXTINF: group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest/scale-to-width-down/460?cb=20221025083646" ,Sony Sports Ten 1
 https://playidtv24.vercel.app/channel/sports/ten1.m3u8
 
