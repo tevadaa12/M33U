@@ -3,8 +3,20 @@
 #EXTINF: group-title="MU TV" tvg-logo="https://play-lh.googleusercontent.com/eIvDwKcoggMj1SDcOUbWAHc0FgocQdIbxtxUwRXB-Wv1rZ5PnwdgnIU8GL24qbyrPFGE" ,MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 
-#EXTINF: group-title="MU TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png/revision/latest?cb=20200924173711" ,Astro 3
+#EXTINF: group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png/revision/latest?cb=20200924173711" ,Astro 3
 https://play.gachor99.my.id:443/play/sO0pi4NyHs4kjc6reYfw9fUqIOwQuuc93AxxG4O80I8/m3u8
 
-#EXTINF: group-title="MU TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png/revision/latest?cb=20200924173711" ,Astro 3
+#EXTINF: group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png/revision/latest?cb=20200924173711" ,Astro 3
 https://play.gachor99.my.id:443/play/sO0pi4NyHs4kjc6reYfw9RyifyobGiV7wZXRdqbolmo/m3u8
+
+#EXTINF: group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest/scale-to-width-down/460?cb=20221025083646" ,Sony Sports Ten 1
+https://playidtv24.vercel.app/channel/sports/ten1.m3u8
+
+#EXTINF: group-title="SPORTS" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_425_305" ,HK Now Sports 2
+https://playidtv24.vercel.app/channel/sports/hknowsports2.m3u8
+
+#EXTINF: group-title="SPORTS" tvg-logo="https://www.heng99bet.com/wp-content/uploads/2022/10/tv-station-1818.png" ,True Premier HD 1
+https://playidtv24.vercel.app/channel/sports/truepremier1.m3u8
+
+#EXTINF: group-title="SPORTS" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png" ,Hub Premier 2
+https://playidtv24.vercel.app/channel/sports/HubPremier2.m3u8
