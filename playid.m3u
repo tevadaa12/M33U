@@ -758,6 +758,8 @@ https://webhdrus.onlinehdhls.ru/lb/premium826/index.m3u8
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://webhdrus.onlinehdhls.ru/lb/premium377/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://img.inwiptv.net/postor/20240419200458MUTV.jpg" group-title="กีฬาต่างประเทศ",MUTV[2]
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT1" tvg-logo="https://img.inwiptv.net/postor/20240517225807TNT1.jpg" group-title="กีฬาต่างประเทศ",TNT1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
