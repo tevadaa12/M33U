@@ -222,9 +222,11 @@ https://media.wacthstream.com/stream_live/445_SparkJump/playlist.m3u8?wmsAuthSig
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #EXTVLCOPT:http-referer=https://beta.m-fixer.net/
 https://cdn-20g.m-fixer.net:8082/mfixer/premierhd1/playlist.m3u8
+#EXTINF:-1 tvg-id="premier1.iptv36.my.to" tvg-name="EPL 1" tvg-logo="https://moviektu.com/news/logotv/sport/epl1.png" group-title="กีฬา",EPL 1 FHD[2]
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #EXTVLCOPT:http-referer=https://beta.m-fixer.net/
 https://cdn-20g.m-fixer.net:8082/live/epl1/playlist.m3u8
+#EXTINF:-1 tvg-id="premier1.iptv36.my.to" tvg-name="EPL 1" tvg-logo="https://moviektu.com/news/logotv/sport/epl1.png" group-title="กีฬา",EPL 1 FHD[3]
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #EXTVLCOPT:http-referer=https://beta.m-fixer.net/
 #https://drzl.short.gy/epl1playlist.m3u8
