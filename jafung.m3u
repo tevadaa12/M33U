@@ -1,6 +1,8 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="Nova Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeLTptGUdvdbbsEgNUz0H_iiRq1posWEI33g&s" ,Nova Sports Premier League
+http://playtv.my.id/play/novaplayid.m3u8
 #EXTINF:-1 group-title="NOW SPORTS" tvg-logo="https://www.nowtv.now.com/media/s-logo/620_e.png" ,Now Sports Premier League TV
 https://playtv.my.id/play/nowpreplayid.m3u8
 
