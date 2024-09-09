@@ -1,10 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="4K" tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/lyUBBNnsKD4m3kUXu7T9p/e8136debdaaacdb06136955b0285ca72/v-sport-ultrahd.png" ,V Sport Ultra HD
+https://realmetx.serv00.net/channel/sports/Sports4k.m3u8
 
-#EXTINF:-1 group-title="Nova Sports" tvg-logo="https://i.ytimg.com/vi/1n6q9rwR4RM/hqdefault.jpg" ,Nova Sports Premier League
+########################################### 4K ########################################
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://yt3.googleusercontent.com/so_lrPh6XZG8QdMd5wMOFhLWAM8SfudqKoJhIe0vKUyk3LsQtNdCPvDtDtLSoTnZ4ZnrVLVm6Q=s900-c-k-c0x00ffffff-no-rj" ,Sky Sports Premier League
+http://bspan237.xyz:80/live/5057797684/m7684/259728.ts
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://i.ytimg.com/vi/1n6q9rwR4RM/hqdefault.jpg" ,Nova Sports Premier League
 http://playtv.my.id/play/novaplayid.m3u8
-#EXTINF:-1 group-title="NOW SPORTS" tvg-logo="https://www.nowtv.now.com/media/s-logo/620_e.png" ,Now Sports Premier League TV
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://www.nowtv.now.com/media/s-logo/620_e.png" ,Now Sports Premier League TV
 https://playtv.my.id/play/nowpreplayid.m3u8
+#EXTINF:-1 group-title="Premier League" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/V_Sport_Premier_League.svg/revision/latest/scale-to-width-down/300?cb=20220701201704" ,V Sport Premier League
+https://realmetx.serv00.net/channel/sports/vsportpremierleague.m3u8
 
 ########################################### FREE TV + Entertainment ########################################
 
