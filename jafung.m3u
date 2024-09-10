@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="4K" tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/lyUBBNnsKD4m3kUXu7T9p/e8136debdaaacdb06136955b0285ca72/v-sport-ultrahd.png" ,V Sport Ultra HD
-https://realmetx.serv00.net/channel/sports/Sports4k.m3u8
+
 
 ########################################### 4K ########################################
 #EXTINF:-1 group-title="Premier League" tvg-logo="https://yt3.googleusercontent.com/so_lrPh6XZG8QdMd5wMOFhLWAM8SfudqKoJhIe0vKUyk3LsQtNdCPvDtDtLSoTnZ4ZnrVLVm6Q=s900-c-k-c0x00ffffff-no-rj" ,Sky Sports Premier League
@@ -13,8 +12,74 @@ https://playtv.my.id/play/nowpreplayid.m3u8
 #EXTINF:-1 group-title="Premier League" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/V_Sport_Premier_League.svg/revision/latest/scale-to-width-down/300?cb=20220701201704" ,V Sport Premier League
 https://realmetx.serv00.net/channel/sports/vsportpremierleague.m3u8
 
-########################################### FREE TV + Entertainment ########################################
+#EXTINF:-1 group-title="@PlayID" tvg-logo="https://yt3.googleusercontent.com/Rq7jSfNLgBABEl0QGm154RxR0cuiAgao0mySoG7qfdRc0zFZ1iUwLlelTu6VQm12PK9pyJaW=s900-c-k-c0x00ffffff-no-rj" ,SPORTS4K
+https://realmetx.serv00.net/channel/sports/Sports4k-1.m3u8
+#EXTINF:-1 group-title="@PlayID" tvg-logo="https://yt3.googleusercontent.com/Rq7jSfNLgBABEl0QGm154RxR0cuiAgao0mySoG7qfdRc0zFZ1iUwLlelTu6VQm12PK9pyJaW=s900-c-k-c0x00ffffff-no-rj" ,SPORTS4K
+https://realmetx.serv00.net/channel/sports/Sports4k.m3u8
 
+
+########################################### realmetx.serv00.net/Ch/ ########################################
+#EXTINF:-1 group-title="@PlayID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKJlSP6NoN2PzsaxrefkEsiCP1BD2Va_niQw&s" ,Sony Sports Ten 1
+https://realmetx.serv00.net/channel/sports/ten1.m3u8
+#EXTINF:-1 group-title="@PlayID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAATZp1kzeckj73wgrl1hYlO6bMwzCYxn8nQ&s" ,Sony Sports Ten 2
+https://realmetx.serv00.net/channel/sports/ten2.m3u8
+
+#EXTINF:-1 group-title="@PlayID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcu08PKP223d-Uek6e3FkIUBRu2p69250Q-Q&s" ,V Sport Premier League
+https://realmetx.serv00.net/channel/sports/vsportpremierleague.m3u8
+#EXTINF:-1 group-title="@PlayID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcJy15d3H9PRkv23vbg0rUw9A82oVmj82rdw&s" ,V Sport Premier League 1
+https://realmetx.serv00.net/channel/sports/vsportpremierleague1.m3u8
+#EXTINF:-1 group-title="@PlayID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe3bn13Q187q5n_Z-vIc9Xhz0igyOSLANqXA&s" ,V Sport Premier League 2
+https://realmetx.serv00.net/channel/sports/vsportpremierleague2.m3u8
+#EXTINF:-1 group-title="@PlayID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFJPbvF6uQkxjgEvgy3ipElyNn3g-Iq65HsA&s" ,V Sport Premier League 3
+https://realmetx.serv00.net/channel/sports/vsportpremierleague3.m3u8
+#EXTINF:-1 group-title="@PlayID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPfURySr-60IEIPxD0_wyxgvb78JDfHbkTCg&s" ,V Sport Premier League 4
+https://realmetx.serv00.net/channel/sports/vsportpremierleague4.m3u8
+
+
+#EXTINF:-1 group-title="@PlayID" tvg-logo="https://www.lyngsat.com/logo/tv/oo/optus-sport-1-au.png" ,Optus Sport 1
+https://realmetx.serv00.net/channel/sports/optussport1.m3u8
+#EXTINF:-1 group-title="@PlayID" tvg-logo="https://www.lyngsat.com/logo/tv/oo/optus-sport-2-au.png" ,Optus Sport 2
+https://realmetx.serv00.net/channel/sports/optussport2.m3u8
+#EXTINF:-1 group-title="@PlayID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSO7BlpBkZ82nKqFzKLlHqFZ0WOBluVZyYQR3_veF-TOF-lKi9TKrMkyY7wh0XIpqJuhg&usqp=CAU" ,Optus Sport 3
+https://realmetx.serv00.net/channel/sports/optussport3.m3u8
+#EXTINF:-1 group-title="@PlayID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSO7BlpBkZ82nKqFzKLlHqFZ0WOBluVZyYQR3_veF-TOF-lKi9TKrMkyY7wh0XIpqJuhg&usqp=CAU" ,Optus Sport 4
+https://realmetx.serv00.net/channel/sports/optussport4.m3u8
+#EXTINF:-1 group-title="@PlayID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSO7BlpBkZ82nKqFzKLlHqFZ0WOBluVZyYQR3_veF-TOF-lKi9TKrMkyY7wh0XIpqJuhg&usqp=CAU" ,Optus Sport 5
+https://realmetx.serv00.net/channel/sports/optussport5.m3u8
+
+#EXTINF:-1 group-title="@PlayID" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/b/b1/HubSports_1.png/revision/latest/scale-to-width-down/200?cb=20190619114530" ,Hub Sports 1
+https://realmetx.serv00.net/channel/sports/hubsports1.m3u8
+#EXTINF:-1 group-title="@PlayID" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/2/25/HubSports_2.png/revision/latest?cb=20190619114541" ,Hub Sports 2
+https://realmetx.serv00.net/channel/sports/hubsports2.m3u8
+#EXTINF:-1 group-title="@PlayID" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/tmpwbb1655810489.png" ,Hub Sports 3
+https://realmetx.serv00.net/channel/sports/hubsports3.m3u8
+
+
+#EXTINF:-1 group-title="@PlayID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Cinemax_2016.svg" ,Cinemax
+https://realmetx.serv00.net/channel/sports/cinemax.m3u8
+#EXTINF:-1 group-title="@PlayID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Cinemax_2016.svg" ,Cinemax1
+https://realmetx.serv00.net/channel/sports/cinemax1.m3u8
+
+
+#EXTINF:-1 group-title="@PlayID" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" ,beIN Sports 1 4K
+https://realmetx.serv00.net/channel/sports/bein4k1.m3u8
+#EXTINF:-1 group-title="@PlayID" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" ,beIN Sports 2 4K
+https://realmetx.serv00.net/channel/sports/bein4k2.m3u8
+
+#EXTINF:-1 group-title="@PlayID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" ,Astro SuperSport
+https://realmetx.serv00.net/channel/sports/astrofhd-1.m3u8
+#EXTINF:-1 group-title="@PlayID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" ,Astro SuperSport
+https://realmetx.serv00.net/channel/sports/astrofhd.m3u8
+#EXTINF:-1 group-title="@PlayID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Astro_Oasis_HD.png" ,Astro Oasis
+https://realmetx.serv00.net/channel/sports/astrooasis.m3u8
+#EXTINF:-1 group-title="@PlayID" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" ,Astro SuperSport 3 HD
+https://realmetx.serv00.net/channel/sports/astrosport3.m3u8
+#EXTINF:-1 group-title="@PlayID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_d8JVMycvtyoG2jDPB0PT1-HuaoFDW_YX0A&s" ,Astro SuperSport 3 HD
+https://realmetx.serv00.net/channel/sports/astrosport4.m3u8
+
+
+#EXTINF:-1 group-title="@PlayID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRcIFM_ojhtZGjkqzYM6BeRmLn4QxeAM5K_8qfuY2E2YG_mAA5yjYgNAXS420wScQGwcM&usqp=CAU" ,HD TV
+https://realmetx.serv00.net/channel/sports/jiobe1125.m3u8
 
 
 
