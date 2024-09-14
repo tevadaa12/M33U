@@ -1,5 +1,7 @@
 #EXTM3U
 
+
+########################################### TEST ########################################
 #EXTINF:-1 tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl1.png", group-title="TEST", EPL1 [doolive4k]
 https://dolive.thaim3u.com/doolive4k-tv/siamsport-1/playlist.m3u8|Referer=https://doolive4k.tv/
 
@@ -13,28 +15,33 @@ https://dolive.thaim3u.com/doolive4k-tv/siamsport-1/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/th-sport/tpf1/chunks.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl1.png", group-title="TEST", EPL1 [streaming.livescorethai]
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net
+https://streaming.livescorethai.net/iptv/bsb-epl1.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl1.png", group-title="TEST", EPL1 [livescorethai]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
 https://streaming.livescorethai.net/iptv/bsb-epl1.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl1.png", group-title="TEST", EPL1 [livedoomovies]
+www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl1.png", group-title="TEST", EPL1 [freetvdd]
+https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8?|Referer=https://freetvdd.com
+
+#EXTINF:-1 tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl1.png", group-title="TEST", EPL1 [wacth.tv]
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://media.wacthstream.com/stream_live/600_eng1./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
 
 
 
 ########################################### 4K ########################################
-#EXTINF:-1 group-title="Premier League" tvg-logo="https://yt3.googleusercontent.com/so_lrPh6XZG8QdMd5wMOFhLWAM8SfudqKoJhIe0vKUyk3LsQtNdCPvDtDtLSoTnZ4ZnrVLVm6Q=s900-c-k-c0x00ffffff-no-rj" ,Sky Sports Premier League
-http://bspan237.xyz:80/live/5057797684/m7684/259728.ts
-#EXTINF:-1 group-title="Premier League" tvg-logo="https://i.ytimg.com/vi/1n6q9rwR4RM/hqdefault.jpg" ,Nova Sports Premier League
-http://playtv.my.id/play/novaplayid.m3u8
-#EXTINF:-1 group-title="Premier League" tvg-logo="https://www.nowtv.now.com/media/s-logo/620_e.png" ,Now Sports Premier League TV
-https://playtv.my.id/play/nowpreplayid.m3u8
-#EXTINF:-1 group-title="Premier League" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/V_Sport_Premier_League.svg/revision/latest/scale-to-width-down/300?cb=20220701201704" ,V Sport Premier League
-https://realmetx.serv00.net/channel/sports/vsportpremierleague.m3u8
 
-#EXTINF:-1 group-title="PlayID" tvg-logo="https://yt3.googleusercontent.com/Rq7jSfNLgBABEl0QGm154RxR0cuiAgao0mySoG7qfdRc0zFZ1iUwLlelTu6VQm12PK9pyJaW=s900-c-k-c0x00ffffff-no-rj" ,SPORTS4K
-https://realmetx.serv00.net/channel/sports/Sports4k-1.m3u8
-#EXTINF:-1 group-title="PlayID" tvg-logo="https://yt3.googleusercontent.com/Rq7jSfNLgBABEl0QGm154RxR0cuiAgao0mySoG7qfdRc0zFZ1iUwLlelTu6VQm12PK9pyJaW=s900-c-k-c0x00ffffff-no-rj" ,SPORTS4K
-https://realmetx.serv00.net/channel/sports/Sports4k.m3u8
+
+
+
 
 
 ########################################### realmetx.serv00.net/Ch/ ########################################
