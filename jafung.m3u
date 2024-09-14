@@ -18,21 +18,6 @@ https://r3-sn-5fo-c37ed9.googleuservideo.com/dooball_kub1/trueepl1_480p/chunks.m
 #EXTVLCOPT:http-referer=https://99dooball.com/
 https://cdn2.aws-live-streaming.com/lsmscore/epl1_sd/chunks.m3u8?nimblesessionid=3430758
 
-#EXTINF:-1 tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl1.png", group-title="TEST", EPL1 [m-fixer]
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referer=https://beta.m-fixer.net/
-https://cdn-20g.m-fixer.net:8082/mfixer/premierhd1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl1.png", group-title="TEST", EPL1 [m-fixer] สำรอง 2
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referer=https://beta.m-fixer.net/
-https://cdn-20g.m-fixer.net:8082/live/epl1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl1.png", group-title="TEST", EPL1 [m-fixer] สำรอง 3
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referer=https://beta.m-fixer.net/
-https://drzl.short.gy/epl1playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl1.png", group-title="TEST", EPL1 [madoohd]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
 #EXTVLCOPT:http-referrer=https://www.madoohd.com/
