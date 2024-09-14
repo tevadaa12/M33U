@@ -1,12 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl1.png", group-title="TEST", EPL1
+#EXTINF:-1 tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl1.png", group-title="TEST", EPL1 [doolive4k]
 https://dolive.thaim3u.com/doolive4k-tv/siamsport-1/playlist.m3u8|Referer=https://doolive4k.tv/
 
-#EXTINF:-1 tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl1.png", group-title="TEST", EPL1
+#EXTINF:-1 tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl1.png", group-title="TEST", EPL1 [doolive4k]สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
 #EXTVLCOPT:http-referrer=https://doolive4k.tv/
 https://dolive.thaim3u.com/doolive4k-tv/siamsport-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl1.png", group-title="TEST", EPL1 [dooball2you]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/th-sport/tpf1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl1.png", group-title="TEST", EPL1 [livescorethai]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
+#EXTVLCOPT:http-referrer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/bsb-epl1.stream/chunks.m3u8
 
 
 
