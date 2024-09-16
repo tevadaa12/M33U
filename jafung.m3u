@@ -4,38 +4,38 @@
 ########################################### TEST ########################################
 
 
-#EXTINF:-1 tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl1.png", group-title="TEST", EPL1 [madoohd]
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png", group-title="TEST", EPL1 [madoohd]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
 #EXTVLCOPT:http-referrer=https://www.madoohd.com/
 https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl1.png", group-title="TEST", EPL1 [doolive4k]
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png", group-title="TEST", EPL1 [doolive4k]
 https://dolive.thaim3u.com/doolive4k-tv/siamsport-1/playlist.m3u8|Referer=https://doolive4k.tv/
 
-#EXTINF:-1 tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl1.png", group-title="TEST", EPL1 [doolive4k]สำรอง
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png", group-title="TEST", EPL1 [doolive4k]สำรอง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
 #EXTVLCOPT:http-referrer=https://doolive4k.tv/
 https://dolive.thaim3u.com/doolive4k-tv/siamsport-1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl1.png", group-title="TEST", EPL1 [dooball2you]
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png", group-title="TEST", EPL1 [dooball2you]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
 #EXTVLCOPT:http-referrer=https://dooball2you.com/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/th-sport/tpf1/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl1.png", group-title="TEST", EPL1 [streaming.livescorethai]
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png", group-title="TEST", EPL1 [streaming.livescorethai]
 #EXTVLCOPT:http-referrer=https://streaming.livescorethai.net
 https://streaming.livescorethai.net/iptv/bsb-epl1.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl1.png", group-title="TEST", EPL1 [livescorethai]
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png", group-title="TEST", EPL1 [livescorethai]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
 https://streaming.livescorethai.net/iptv/bsb-epl1.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl1.png", group-title="TEST", EPL1 [livedoomovies]
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png", group-title="TEST", EPL1 [livedoomovies]
 https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl1.png", group-title="TEST", EPL1 [freetvdd]
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png", group-title="TEST", EPL1 [freetvdd]
 https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8?|Referer=https://freetvdd.com
 
 
@@ -44,8 +44,8 @@ https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8?|Referer=https
 ########################################### 4K ########################################
 
 
-
-
+#EXTINF:-1 group-title="4K" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2020/09/Sky-Sports-PL-2020-logo-250.png" ,Sky Sports Premier League
+http://client.newborntv.xyz:80/live/Gzim-zeqa/fKkkFC4X6/10719.m3u8
 
 
 ########################################### realmetx.serv00.net/Ch/ ########################################
