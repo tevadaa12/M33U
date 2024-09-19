@@ -6,16 +6,26 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2018/07/14113743/MUtv-logo.jpg", group-title="TEST", MUTV [streamed]
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2018/07/14113743/MUtv-logo.jpg", group-title="TEST Streaming", MUTV [streamed]
 https://rr.vipstreams.in/alpha/js/mutv-manchester-united-tv-mufc-tv/1/playlist.m3u8|Referer=https://embedme.top/
 
-#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2018/07/14113743/MUtv-logo.jpg", group-title="TEST", MUTV [2] [streamed]
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2018/07/14113743/MUtv-logo.jpg", group-title="TEST Streaming", MUTV [2] [streamed]
 https://rr.vipstreams.in/alpha/js/mutv-manchester-united-tv-mufc-tv/2/playlist.m3u8|Referer=https://embedme.top/
 
 
 
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg", group-title="TEST Streaming", Sky Sp Premier League
+https://wiki.mizhls.ru/wiki/wiki63b/tracks-v1a1/mono.m3u8|Referer=https://quest4play.xyz/
 
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg", group-title="TEST Streaming", Sky Sp Premier League [2]
+https://top1.mizhls.ru/top1/eplayerSKYPL/tracks-v1a1/mono.m3u8|Referer=https://topembed.pw/
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg", group-title="TEST Streaming", Sky Sp Premier League [3]
+https://wiki.mizhls.ru/wiki/wiki63b/tracks-v1a1/mono.m3u8|Referer=https://quest4play.xyz/
 
 
 
