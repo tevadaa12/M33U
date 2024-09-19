@@ -2,26 +2,16 @@
 
 
 
-########################################### TEST DADDYLIVE ########################################
+########################################### TEST Streaming ########################################
 
 
 
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2018/07/14113743/MUtv-logo.jpg", group-title="TEST", MUTV [streamed]
+https://rr.vipstreams.in/alpha/js/mutv-manchester-united-tv-mufc-tv/1/playlist.m3u8|Referer=https://embedme.top/
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0iro049O-24NaUGRW9ZXz_jtrgRIrEqp5kA&s", group-title="TEST DADDYLIVE", TNT Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
-#EXTVLCOPT:http-referrer=https://quest4play.xyz/
-https://ddy5.mizhls.ru/ddy5/premium329/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2018/07/14113743/MUtv-logo.jpg", group-title="TEST", MUTV [2] [streamed]
+https://rr.vipstreams.in/alpha/js/mutv-manchester-united-tv-mufc-tv/2/playlist.m3u8|Referer=https://embedme.top/
 
-
-#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/D4D12AQExHPDGFtoyTQ/article-cover_image-shrink_720_1280/0/1699606942546?e=2147483647&v=beta&t=okvoaMueNhTkNvsjx91aZ479XOTqkbKfbYSXPNbUpL8", group-title="TEST DADDYLIVE", Discovery Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
-#EXTVLCOPT:http-referrer=https://quest4play.xyz/
-https://ddy1.mizhls.ru/ddy1/premium313/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/d/d4/Cw_logo_sports_tphq.png/revision/latest?cb=20170105053512", group-title="TEST DADDYLIVE", The CW Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
-#EXTVLCOPT:http-referrer=https://quest4play.xyz/
-https://ddy1.mizhls.ru/ddy1/premium300/tracks-v1a1/mono.m3u8
 
 
 
