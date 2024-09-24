@@ -100,61 +100,128 @@ https://www.livedoomovies.com:4432/02_PremierHD1_480p/chunklist.m3u8|Referer=htt
 
 
 
-########################################### WACTH TV ########################################
+########################################### SPORTS XTREAM #########################################
 
 
-#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png", group-title="WACTH TV", Premier1   
-https://media.wacthstream.com/stream_live/600_eng1./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDE6NTY6NDcgUE0maGFzaF92YWx1ZT1KS2VPczZRS1RmWGlOb0MwNkRacE5BPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODQ4MTE=|Referer=https://wacth.tv/
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/UEFATV.png", group-title="SPORTS XTREAM", UEFATV
+https://live-uefa-com.akamaized.net/hls/live/2036934/290824_UCLGS/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png", group-title="WACTH TV", Premier1    
-https://media.wacthstream.com/stream_live/600_eng1.2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDE6NTY6NDcgUE0maGFzaF92YWx1ZT1KS2VPczZRS1RmWGlOb0MwNkRacE5BPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODQ4MTE=|Referer=https://wacth.tv/
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/VSPORT-PREMIUM.png", group-title="SPORTS XTREAM", VSPORT PM
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/51531
 
-#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png", group-title="WACTH TV", Premier2   
-https://media.wacthstream.com/stream_live/602_eng2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDE6NTY6NDcgUE0maGFzaF92YWx1ZT1KS2VPczZRS1RmWGlOb0MwNkRacE5BPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODQ4MTE=|Referer=https://wacth.tv/
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/Supersporthd.png", group-title="SPORTS XTREAM", SUPER EPL
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/60575
 
-#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png", group-title="WACTH TV", Premier3   
-https://media.wacthstream.com/stream_live/603_eng3./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDE6NTY6NDcgUE0maGFzaF92YWx1ZT1KS2VPczZRS1RmWGlOb0MwNkRacE5BPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODQ4MTE=|Referer=https://wacth.tv/
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/Supersporthd.png", group-title="SPORTS XTREAM", SUPER EPL
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/60799
 
-#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-4.png", group-title="WACTH TV", Premier4   
-https://media.wacthstream.com/stream_live/604_eng4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDE6NTY6NDcgUE0maGFzaF92YWx1ZT1KS2VPczZRS1RmWGlOb0MwNkRacE5BPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODQ4MTE=|Referer=https://wacth.tv/ 
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/Supersporthd.png", group-title="SPORTS XTREAM", SUPER LALIGA
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/60797
 
-#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png", group-title="WACTH TV", Premier5   
-https://media.wacthstream.com/stream_live/605_eng5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDE6NTY6NDcgUE0maGFzaF92YWx1ZT1KS2VPczZRS1RmWGlOb0MwNkRacE5BPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODQ4MTE=|Referer=https://wacth.tv/ 
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/Supersporthd.png", group-title="SPORTS XTREAM", SUPER LALIGA
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/60573
 
-#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-bein1.png", group-title="WACTH TV", BeIN1  
-https://media.wacthstream.com/stream_live/607_BEIN1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDE6NTY6NDcgUE0maGFzaF92YWx1ZT1KS2VPczZRS1RmWGlOb0MwNkRacE5BPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODQ4MTE=|Referer=https://wacth.tv/
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/Supersporthd.png", group-title="SPORTS XTREAM", SUPER FOOTBALL
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/60582
 
-#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-bein2.png", group-title="WACTH TV", BeIN2   
-https://media.wacthstream.com/stream_live/608_BEIN2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDE6NTY6NDcgUE0maGFzaF92YWx1ZT1KS2VPczZRS1RmWGlOb0MwNkRacE5BPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODQ4MTE=|Referer=https://wacth.tv/
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/Sky-Sports.png", group-title="SPORTS XTREAM", SKY FOOTBALL
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/2870
 
-#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-bein3.png", group-title="WACTH TV", BeIN3   
-https://media.wacthstream.com/stream_live/609_BEIN3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDE6NTY6NDcgUE0maGFzaF92YWx1ZT1KS2VPczZRS1RmWGlOb0MwNkRacE5BPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODQ4MTE=|Referer=https://wacth.tv/
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/Sky-Sports.png", group-title="SPORTS XTREAM", SKY EPL
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/2877
 
-#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tsport1.png", group-title="WACTH TV", Sports1  
-https://media.wacthstream.com/stream_live/666_Ts_HD1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDE6NTY6NDcgUE0maGFzaF92YWx1ZT1KS2VPczZRS1RmWGlOb0MwNkRacE5BPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODQ4MTE=|Referer=https://wacth.tv/ 
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/Sky-Sports.png", group-title="SPORTS XTREAM", SKY MAIN
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/2881
 
-#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tsport2.png", group-title="WACTH TV", Sports2   
-https://media.wacthstream.com/stream_live/667_Ts_HD2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDE6NTY6NDcgUE0maGFzaF92YWx1ZT1KS2VPczZRS1RmWGlOb0MwNkRacE5BPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODQ4MTE=|Referer=https://wacth.tv/
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/tnt-sports.png", group-title="SPORTS XTREAM", TNT1
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/28946
 
-#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tsport3.png", group-title="WACTH TV", Sports3   
-https://media.wacthstream.com/stream_live/668_Ts_HD3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDE6NTY6NDcgUE0maGFzaF92YWx1ZT1KS2VPczZRS1RmWGlOb0MwNkRacE5BPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODQ4MTE=|Referer=https://wacth.tv/
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/tnt-sports.png", group-title="SPORTS XTREAM", TNT2
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/28945
 
-#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tsport4.png", group-title="WACTH TV", Sports4   
-https://media.wacthstream.com/stream_live/669_Ts_HD4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDE6NTY6NDcgUE0maGFzaF92YWx1ZT1KS2VPczZRS1RmWGlOb0MwNkRacE5BPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODQ4MTE=|Referer=https://wacth.tv/
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/tnt-sports.png", group-title="SPORTS XTREAM", TNT3
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/28944
 
-#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/sd-tsport5.png", group-title="WACTH TV", Sports5   
-https://media.wacthstream.com/stream_live/684_TSP5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDE6NTY6NDcgUE0maGFzaF92YWx1ZT1KS2VPczZRS1RmWGlOb0MwNkRacE5BPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODQ4MTE=|Referer=https://wacth.tv/ 
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/tnt-sports.png", group-title="SPORTS XTREAM", TNT4
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/28943
 
-#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/sd-tsport7.png", group-title="WACTH TV", Sports7   
-https://media.wacthstream.com/stream_live/686_TSP7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDE6NTY6NDcgUE0maGFzaF92YWx1ZT1KS2VPczZRS1RmWGlOb0MwNkRacE5BPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODQ4MTE=|Referer=https://wacth.tv/ 
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/tnt-sports.png", group-title="SPORTS XTREAM", TNT5
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/28942
 
-#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tennis.png", group-title="WACTH TV", Tennis
-https://media.wacthstream.com/stream_live/670_Tennis/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDE6NTY6NDcgUE0maGFzaF92YWx1ZT1KS2VPczZRS1RmWGlOb0MwNkRacE5BPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODQ4MTE=|Referer=https://wacth.tv/
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/Astro-Supersport.png", group-title="SPORTS XTREAM", ASTRO1
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/1722
 
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/GolfChannel.png" group-title="WACTH TV", GOLFCH
-https://media.wacthstream.com/stream_live/676_golfplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDE6NTY6NDcgUE0maGFzaF92YWx1ZT1KS2VPczZRS1RmWGlOb0MwNkRacE5BPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODQ4MTE=|Referer=https://wacth.tv/
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/Astro-Supersport.png", group-title="SPORTS XTREAM", ASTRO2
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/1721
 
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/Astro-Supersport.png", group-title="SPORTS XTREAM", ASTRO3
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/1720
 
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/Astro-Supersport.png", group-title="SPORTS XTREAM", ASTRO4
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/1719
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/Astro-Supersport.png", group-title="SPORTS XTREAM", ASTRO5
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/1718
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/sporttv.png", group-title="SPORTS XTREAM", SPORTTV1
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/29392
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/sporttv.png", group-title="SPORTS XTREAM", SPORTTV2
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/29391
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/sporttv.png", group-title="SPORTS XTREAM", SPORTTV3
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/29390
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/sporttv.png", group-title="SPORTS XTREAM", SPORTTV4
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/29389
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/sporttv.png", group-title="SPORTS XTREAM", SPORTTV5
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/29388
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/BeinSportsf5ab1dda95368fcf.png", group-title="SPORTS XTREAM", BEIN1FR
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/2830
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/BeinSportsf5ab1dda95368fcf.png", group-title="SPORTS XTREAM", BEIN2FR
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/2829
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/BeinSportsf5ab1dda95368fcf.png", group-title="SPORTS XTREAM", BEIN3FR
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/2828
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/DAZN--ELEVEN.jpg", group-title="SPORTS XTREAM", DAZN 1 
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/49966
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/DAZN--ELEVEN.jpg", group-title="SPORTS XTREAM", DAZN 2 
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/49032
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/DAZN--ELEVEN.jpg", group-title="SPORTS XTREAM", DAZN 3 
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/29371
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/DAZN--ELEVEN.jpg", group-title="SPORTS XTREAM", DAZN 4 
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/29370
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/DAZN--ELEVEN.jpg", group-title="SPORTS XTREAM", DAZN 5 
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/29369
+
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/DAZN--ELEVEN.jpg", group-title="SPORTS XTREAM", DAZN 6
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/29368
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/NOVA.jpg", group-title="SPORTS XTREAM", NOVA PRIME
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/31154
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/NOVA.jpg", group-title="SPORTS XTREAM", NOVA1 ZAZNAM
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/30912
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/NOVA.jpg", group-title="SPORTS XTREAM", NOVA1
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/31160
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/NOVA.jpg", group-title="SPORTS XTREAM", NOVA2
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/31159
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/NOVA.jpg", group-title="SPORTS XTREAM", NOVA3
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/31158
+
+#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/NOVA.jpg", group-title="SPORTS XTREAM", NOVA4
+http://abcnew.site:8880/DAALM2523/ZASc5gv9pd/31157
 
 ########################################### SPORTS #########################################
 
