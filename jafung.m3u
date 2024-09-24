@@ -74,6 +74,25 @@ https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8?|Referer=https
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png", group-title="TEST", EPL1 [dooball123]
+https://dolive.thaim3u.com/ABjlZx5Y2zEBfftzydK1yQAxgm7NqqLY/siamsport-1/playlist.m3u8|Referer=https://dooball123.com/
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png", group-title="TEST", EPL1 [dooball2you]
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8|Referer=https://dooball2you.com/
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png", group-title="TEST", EPL1 [aisplay24hd]
+https://cdn1.aws-live-streaming.com/ais/epl1/playlist.m3u8|Referer=https://www.aisplay24hd.com/
+
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png", group-title="TEST", EPL1 [ufabetcompany]
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-1/playlist.m3u8|Referer=https://ufabetcompany.app/
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png", group-title="TEST", EPL1 [youdooball]
+https://www.livedoomovies.com:4432/02_PremierHD1_480p/chunklist.m3u8|Referer=https://www.youdooball.com/
+
+
 ########################################### 4K ########################################
 
 
