@@ -97,6 +97,51 @@ http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:32:B8&stream=649217&exte
 #EXTINF:-1 tvg-logo="http://covers.dragons-ott.com/PICON/GREECE/Nova Sports Start.png" group-title="NOVA SPORTS",Nova Sports Start
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:32:B8&stream=649218&extension=ts
 
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://covers.dragons-ott.com/PICON/GREECE/Nova Sports 1.png" group-title="NOVA SPORTS" tvg-name="ERT SPORTS FHD" tvg-logo="https://asiagrandiptv.us/logo/eptsport.png" ,ERT SPORTS FHD
+http://371319566856925627.ofkp0923.xyz:80/play/4SMHVH43SP/hEVFQrsgDCp/925627.ts
+#EXTINF:-1 tvg-logo="http://covers.dragons-ott.com/PICON/GREECE/Nova Sports 2.png" group-title="NOVA SPORTS" tvg-id="novasports1.gr" tvg-name="NOVA SPORT 1 FHD" ,NOVA SPORT 1 FHD
+http://371319566856893838.ofkp0923.xyz:80/play/4SMHVH43SP/hEVFQrsgDCp/893838.ts
+#EXTINF:-1 tvg-logo="http://covers.dragons-ott.com/PICON/GREECE/Nova Sports 3.png" group-title="NOVA SPORTS" tvg-id="novasports2.gr" tvg-name="NOVA SPORT 2 FHD" ,NOVA SPORT 2 FHD
+http://371319566856922510.ofkp0923.xyz:80/play/4SMHVH43SP/hEVFQrsgDCp/922510.ts
+#EXTINF:-1 tvg-logo="http://covers.dragons-ott.com/PICON/GREECE/Nova Sports 4.png" group-title="NOVA SPORTS" tvg-id="novasports3.gr" tvg-name="NOVA SPORT 3 FHD" ,NOVA SPORT 3 FHD
+http://371319566856917805.ofkp0923.xyz:80/play/4SMHVH43SP/hEVFQrsgDCp/917805.ts
+#EXTINF:-1 tvg-logo="http://covers.dragons-ott.com/PICON/GREECE/Nova Sports 4.png" group-title="NOVA SPORTS" tvg-id="novasports4.gr" tvg-name="NOVA SPORT 4 FHD" ,NOVA SPORT 4 FHDa
+http://371319566856925628.ofkp0923.xyz:80/play/4SMHVH43SP/hEVFQrsgDCp/925628.ts
+#EXTINF:-1 tvg-logo="http://covers.dragons-ott.com/PICON/GREECE/Nova Sports 5.png" group-title="NOVA SPORTS" tvg-id="novasports5.gr" tvg-name="NOVA SPORT 5 FHD" ,NOVA SPORT 5 FHD
+http://371319566856926795.ofkp0923.xyz:80/play/4SMHVH43SP/hEVFQrsgDCp/926795.ts
+#EXTINF:-1 tvg-logo="http://covers.dragons-ott.com/PICON/GREECE/Nova Sports 1.png" group-title="NOVA SPORTS" tvg-name="NOVA SPORTS 1 FHD" ,NOVA SPORTS 1 FHD
+http://371319566856875042.ofkp0923.xyz:80/play/4SMHVH43SP/hEVFQrsgDCp/875042.ts
+#EXTINF:-1 tvg-logo="http://covers.dragons-ott.com/PICON/GREECE/Nova Sports 1.png" group-title="NOVA SPORTS" tvg-name="NOVA SPORTS 1 HD (BACKUP) FHD" ,NOVA SPORTS 1 HD (BACKUP) FHD
+http://371319566856885297.ofkp0923.xyz:80/play/4SMHVH43SP/hEVFQrsgDCp/885297.ts
+#EXTINF:-1 tvg-logo="http://covers.dragons-ott.com/PICON/GREECE/Nova Sports 2.png" group-title="NOVA SPORTS" tvg-name="NOVA SPORTS 2 FHD" ,NOVA SPORTS 2 FHD
+http://371319566856907679.ofkp0923.xyz:80/play/4SMHVH43SP/hEVFQrsgDCp/907679.ts
+#EXTINF:-1 tvg-logo="http://covers.dragons-ott.com/PICON/GREECE/Nova Sports 3.png" group-title="NOVA SPORTS" tvg-name="NOVA SPORTS 3 HD" ,NOVA SPORTS 3 HD
+http://371319566856884334.ofkp0923.xyz:80/play/4SMHVH43SP/hEVFQrsgDCp/884334.ts
+#EXTINF:-1 tvg-logo="http://covers.dragons-ott.com/PICON/GREECE/Nova Sports 3.png" group-title="NOVA SPORTS" tvg-name="NOVA SPORTS 3 HD (BACKUP) HD" ,NOVA SPORTS 3 HD (BACKUP) HD
+http://371319566856913416.ofkp0923.xyz:80/play/4SMHVH43SP/hEVFQrsgDCp/913416.ts
+#EXTINF:-1 group-title="NOVA SPORTS" tvg-name="NOVA SPORTS 4 FHD" tvg-logo="http://estoxy.net:80/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhTECzdGwv1MyBXdavRChf4l6-uE4HsDhVEDr07tkmjGp4NqKglgeTxl8p9Efh1x7rU6dYWCMwvMO2xlvl60DublCMPbzsxp0iLGDKpEJG1BXLd5FnYgxpEz-sQPY9Q3fDiLqiVWBgykyR_uv_HTxhSuUtvPmtt3dQf_AeHHv6Wtg.png" ,NOVA SPORTS 4 FHD
+http://371319566856884335.ofkp0923.xyz:80/play/4SMHVH43SP/hEVFQrsgDCp/884335.ts
+#EXTINF:-1 group-title="NOVA SPORTS" tvg-name="NOVA SPORTS 5 FHD" tvg-logo="http://estoxy.net:80/images/vA4d8RnHTgdxPN32cIhwRnpTXXt-Q0EPU5yBb-cYsVOd8CWQbj-dR2fNsjv2ZmAmbzzV283yHUjrr1bWpauSKzxcYNxx3kZNFV7hcZ1bCKv8lF5HhRpi8Ze52OgQGFjN96XAeXIAEM5hDyyP1dAoJSSbjtbSL7c8BIFBWS-GtcvjOK6t-wwvIqtCvoNmaNUU10fV1vk_efW3qyblzfplzg.png" ,NOVA SPORTS 5 FHD
+http://371319566856826306.ofkp0923.xyz:80/play/4SMHVH43SP/hEVFQrsgDCp/826306.ts
+#EXTINF:-1 group-title="NOVA SPORTS" tvg-name="NOVA SPORTS 6 FHD" tvg-logo="http://logo.ottc.pro:8080/logos/GREECE/NOVASPORTS5.png" ,NOVA SPORTS 6 FHD
+http://371319566856796571.ofkp0923.xyz:80/play/4SMHVH43SP/hEVFQrsgDCp/796571.ts
+#EXTINF:-1 group-title="NOVA SPORTS" tvg-name="NOVA SPORTS NEWS FHD" ,NOVA SPORTS NEWS FHD
+http://371319566856911948.ofkp0923.xyz:80/play/4SMHVH43SP/hEVFQrsgDCp/911948.ts
+#EXTINF:-1 group-title="NOVA SPORTS" tvg-name="NOVA SPORTS PRIME SD" tvg-logo="http://estoxy.net:80/images/vA4d8RnHTgdxPN32cIhwRnpTXXt-Q0EPU5yBb-cYsVOd8CWQbj-dR2fNsjv2ZmAmbzzV283yHUjrr1bWpauSKzxcYNxx3kZNFV7hcZ1bCKtQgAEhx0VWS0jEuD2S6WmYCTH49u_aIFcJEatq9yRH3cEvqf4PAPCL3bCuZlEicxusBz-OK7t1gro6AfUIKujWLPAKQXDV7W7Glel3Hk3peA.png" ,NOVA SPORTS PRIME SD
+http://371319566856917806.ofkp0923.xyz:80/play/4SMHVH43SP/hEVFQrsgDCp/917806.ts
+#EXTINF:-1 group-title="NOVA SPORTS" tvg-name="NOVA SPORTS START FHD" ,NOVA SPORTS START FHD
+http://371319566856883823.ofkp0923.xyz:80/play/4SMHVH43SP/hEVFQrsgDCp/883823.ts
+
 ########################################### Ziggo #########################################
 
 #EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/ziggo.png" group-title="Ziggo",Ziggo TV 4K
