@@ -117,6 +117,21 @@ http://93.119.105.62:80/play/live.php?mac=00:1A:79:A6:48:81&stream=2745&extensio
 http://93.119.105.62:80/play/live.php?mac=00:1A:79:A6:48:81&stream=42186&extension=ts
 
 
+
+########################################### Sky Sports #########################################
+
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysportactive-phibruspel.png" group-title="Sky Sports",Sky Sports Football HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:A6:48:81&stream=38399&extension=ts
+
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysportactive-phibruspel.png" group-title="Sky Sports",Sky Sports Main Event HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:A6:48:81&stream=38410&extension=ts
+
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysportactive-phibruspel.png" group-title="Sky Sports",Sky Sports Premier League HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:A6:48:81&stream=38401&extension=ts
+
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/skysport1hd.png" group-title="Sky Sports",Sky Sport Premier League 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:A6:48:81&stream=132615&extension=ts
+
 ########################################### SPORTS XTREAM #########################################
 
 
@@ -1617,4 +1632,3 @@ https://cdn2.googlecdnforstreaming.live/vvipscore/canal11pt/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7JhaEW5.png", group-title="SPORTS UK", ONEGOLF     
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-
