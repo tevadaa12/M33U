@@ -76,25 +76,25 @@ https://www.livedoomovies.com:4432/02_PremierHD1_480p/chunklist.m3u8|Referer=htt
 
 
 ########################################### NOVA SPORTS ########################################
-#EXTINF:-1 tvg-logo="http://covers.dragons-ott.com/PICON/GREECE/Nova Sports News.png" group-title="NOVA SPORTS",GR| Nova Sports News
+#EXTINF:-1 tvg-logo="http://covers.dragons-ott.com/PICON/GREECE/Nova Sports News.png" group-title="NOVA SPORTS",Nova Sports News
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:32:B8&stream=649205&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dragons-ott.com/PICON/GREECE/Nova Sports 1.png" group-title="NOVA SPORTS",GR| Nova Sports 1
+#EXTINF:-1 tvg-logo="http://covers.dragons-ott.com/PICON/GREECE/Nova Sports 1.png" group-title="NOVA SPORTS",Nova Sports 1
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:32:B8&stream=649206&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dragons-ott.com/PICON/GREECE/Nova sports 2.png" group-title="NOVA SPORTS",GR| Nova sports 2
+#EXTINF:-1 tvg-logo="http://covers.dragons-ott.com/PICON/GREECE/Nova sports 2.png" group-title="NOVA SPORTS",Nova sports 2
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:32:B8&stream=649207&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dragons-ott.com/PICON/GREECE/Nova Sports 3.png" group-title="NOVA SPORTS",GR| Nova Sports 3
+#EXTINF:-1 tvg-logo="http://covers.dragons-ott.com/PICON/GREECE/Nova Sports 3.png" group-title="NOVA SPORTS",Nova Sports 3
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:32:B8&stream=649208&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dragons-ott.com/PICON/GREECE/Nova Sports 4.png" group-title="NOVA SPORTS",GR| Nova Sports 4
+#EXTINF:-1 tvg-logo="http://covers.dragons-ott.com/PICON/GREECE/Nova Sports 4.png" group-title="NOVA SPORTS",Nova Sports 4
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:32:B8&stream=649209&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dragons-ott.com/PICON/GREECE/Nova Sports 5.png" group-title="NOVA SPORTS",GR| Nova Sports 5
+#EXTINF:-1 tvg-logo="http://covers.dragons-ott.com/PICON/GREECE/Nova Sports 5.png" group-title="NOVA SPORTS",Nova Sports 5
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:32:B8&stream=649210&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dragons-ott.com/PICON/GREECE/Nova Sports 6.png" group-title="NOVA SPORTS",GR| Nova Sports 6
+#EXTINF:-1 tvg-logo="http://covers.dragons-ott.com/PICON/GREECE/Nova Sports 6.png" group-title="NOVA SPORTS",Nova Sports 6
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:32:B8&stream=649211&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dragons-ott.com/PICON/GREECE/Nova Sports Premier League.png" group-title="NOVA SPORTS",GR| Nova Sports Premier League
+#EXTINF:-1 tvg-logo="http://covers.dragons-ott.com/PICON/GREECE/Nova Sports Premier League.png" group-title="NOVA SPORTS",Nova Sports Premier League
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:32:B8&stream=649216&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dragons-ott.com/PICON/GREECE/Nova sports Prime.png" group-title="NOVA SPORTS",GR| Nova sports Prime
+#EXTINF:-1 tvg-logo="http://covers.dragons-ott.com/PICON/GREECE/Nova sports Prime.png" group-title="NOVA SPORTS",Nova sports Prime
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:32:B8&stream=649217&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dragons-ott.com/PICON/GREECE/Nova Sports Start.png" group-title="NOVA SPORTS",GR| Nova Sports Start
+#EXTINF:-1 tvg-logo="http://covers.dragons-ott.com/PICON/GREECE/Nova Sports Start.png" group-title="NOVA SPORTS",Nova Sports Start
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:32:B8&stream=649218&extension=ts
 
 ########################################### Ziggo #########################################
