@@ -14,7 +14,7 @@ https://rr.vipstreams.in/alpha/js/mutv-manchester-united-tv-mufc-tv/2/playlist.m
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png", group-title="TEST Streaming", PTV Sports
 http://125.209.88.166:45793/BRN/PTVSports.stream/chunklist_w1078177763.m3u8
-https://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+
 
 
 ########################################### TEST ########################################
@@ -97,9 +97,20 @@ http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:32:B8&stream=649217&exte
 #EXTINF:-1 tvg-logo="http://covers.dragons-ott.com/PICON/GREECE/Nova Sports Start.png" group-title="NOVA SPORTS",GR| Nova Sports Start
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:32:B8&stream=649218&extension=ts
 
+########################################### VIAPLAY #########################################
 
-
-
+#EXTINF:-1 tvg-logo="https://cdn.sanity.io/images/uj8j9fts/production/f20a85f94b8310a27b42eae796a0b5700e7933a8-2194x2448.png?w=1000&h=1000&q=80" group-title="VIAPLAY",(NL) ViaPlay Premiere League 1 4K+
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:A6:48:81&stream=143801&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.sanity.io/images/uj8j9fts/production/f20a85f94b8310a27b42eae796a0b5700e7933a8-2194x2448.png?w=1000&h=1000&q=80" group-title="VIAPLAY",(NL) ViaPlay Premiere League 2 4K+
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:A6:48:81&stream=143802&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.sanity.io/images/uj8j9fts/production/f20a85f94b8310a27b42eae796a0b5700e7933a8-2194x2448.png?w=1000&h=1000&q=80" group-title="VIAPLAY",(NL) ViaPlay Premiere League 3 4K+
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:A6:48:81&stream=143803&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.sanity.io/images/uj8j9fts/production/f20a85f94b8310a27b42eae796a0b5700e7933a8-2194x2448.png?w=1000&h=1000&q=80" group-title="VIAPLAY",(NL) ViaPlay Premiere League 4 4K+
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:A6:48:81&stream=143804&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.sanity.io/images/uj8j9fts/production/f20a85f94b8310a27b42eae796a0b5700e7933a8-2194x2448.png?w=1000&h=1000&q=80" group-title="VIAPLAY",(NL) ViaPlay Premiere League 5 4K+
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:A6:48:81&stream=143805&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.sanity.io/images/uj8j9fts/production/f20a85f94b8310a27b42eae796a0b5700e7933a8-2194x2448.png?w=1000&h=1000&q=80" group-title="VIAPLAY",(NL) ViaPlay Premiere League 6 4K+
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:A6:48:81&stream=143806&extension=ts
 
 
 ########################################### SPORTS XTREAM #########################################
