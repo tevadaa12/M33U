@@ -14,7 +14,7 @@ https://rr.vipstreams.in/alpha/js/mutv-manchester-united-tv-mufc-tv/2/playlist.m
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png", group-title="TEST Streaming", PTV Sports
 http://125.209.88.166:45793/BRN/PTVSports.stream/chunklist_w1078177763.m3u8
-
+https://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 
 
 ########################################### TEST ########################################
@@ -97,20 +97,24 @@ http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:32:B8&stream=649217&exte
 #EXTINF:-1 tvg-logo="http://covers.dragons-ott.com/PICON/GREECE/Nova Sports Start.png" group-title="NOVA SPORTS",GR| Nova Sports Start
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:32:B8&stream=649218&extension=ts
 
-########################################### VIAPLAY #########################################
+########################################### Ziggo #########################################
 
-#EXTINF:-1 tvg-logo="https://cdn.sanity.io/images/uj8j9fts/production/f20a85f94b8310a27b42eae796a0b5700e7933a8-2194x2448.png?w=1000&h=1000&q=80" group-title="VIAPLAY",(NL) ViaPlay Premiere League 1 4K+
-http://93.119.105.62:80/play/live.php?mac=00:1A:79:A6:48:81&stream=143801&extension=ts
-#EXTINF:-1 tvg-logo="https://cdn.sanity.io/images/uj8j9fts/production/f20a85f94b8310a27b42eae796a0b5700e7933a8-2194x2448.png?w=1000&h=1000&q=80" group-title="VIAPLAY",(NL) ViaPlay Premiere League 2 4K+
-http://93.119.105.62:80/play/live.php?mac=00:1A:79:A6:48:81&stream=143802&extension=ts
-#EXTINF:-1 tvg-logo="https://cdn.sanity.io/images/uj8j9fts/production/f20a85f94b8310a27b42eae796a0b5700e7933a8-2194x2448.png?w=1000&h=1000&q=80" group-title="VIAPLAY",(NL) ViaPlay Premiere League 3 4K+
-http://93.119.105.62:80/play/live.php?mac=00:1A:79:A6:48:81&stream=143803&extension=ts
-#EXTINF:-1 tvg-logo="https://cdn.sanity.io/images/uj8j9fts/production/f20a85f94b8310a27b42eae796a0b5700e7933a8-2194x2448.png?w=1000&h=1000&q=80" group-title="VIAPLAY",(NL) ViaPlay Premiere League 4 4K+
-http://93.119.105.62:80/play/live.php?mac=00:1A:79:A6:48:81&stream=143804&extension=ts
-#EXTINF:-1 tvg-logo="https://cdn.sanity.io/images/uj8j9fts/production/f20a85f94b8310a27b42eae796a0b5700e7933a8-2194x2448.png?w=1000&h=1000&q=80" group-title="VIAPLAY",(NL) ViaPlay Premiere League 5 4K+
-http://93.119.105.62:80/play/live.php?mac=00:1A:79:A6:48:81&stream=143805&extension=ts
-#EXTINF:-1 tvg-logo="https://cdn.sanity.io/images/uj8j9fts/production/f20a85f94b8310a27b42eae796a0b5700e7933a8-2194x2448.png?w=1000&h=1000&q=80" group-title="VIAPLAY",(NL) ViaPlay Premiere League 6 4K+
-http://93.119.105.62:80/play/live.php?mac=00:1A:79:A6:48:81&stream=143806&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/ziggo.png" group-title="Ziggo",Ziggo TV 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:A6:48:81&stream=78294&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/ziggosport.png" group-title="Ziggo",Ziggo Sport 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:A6:48:81&stream=119383&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/ziggosportselect.png" group-title="Ziggo",Ziggo Sport Select 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:A6:48:81&stream=2762&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/ziggosportvoetbal.png" group-title="Ziggo",Ziggo Sport Voetbal 4K+
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:A6:48:81&stream=2761&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/ziggosportgolf.png" group-title="Ziggo",Ziggo Sport Golf 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:A6:48:81&stream=2764&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/ziggosportracing.png" group-title="Ziggo",Ziggo Sport Racing 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:A6:48:81&stream=2763&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/ziggosportextra1.png" group-title="Ziggo",Ziggo Sport Tennis 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:A6:48:81&stream=2745&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/ziggosport.png" group-title="Ziggo",Ziggo Sport Docu 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:A6:48:81&stream=42186&extension=ts
 
 
 ########################################### SPORTS XTREAM #########################################
@@ -1613,3 +1617,4 @@ https://cdn2.googlecdnforstreaming.live/vvipscore/canal11pt/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7JhaEW5.png", group-title="SPORTS UK", ONEGOLF     
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+
